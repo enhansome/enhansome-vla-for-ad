@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Vision-Action Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":one: Action-Only Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":two: Perception-Action Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":three: Image-Based World Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":four: Occupancy-Based World Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":five: Latent-Based World Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Vision-Language-Action Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":one: Textual Action Generator"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":two: Numerical Action Generator"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":three: Explicit Action Guidance"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":four: Implicit Representations Transfer"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3. Datasets & Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":one: Vision-Action Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":two: Vision-Language-Action Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "4. Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "5. Other Resources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:56.219Z",
+    "original_repository": "worldbench/awesome-vla-for-ad",
+    "original_repository_sha": "bcdcdf791fa7674596d8737273d71eb958f9c471",
+    "enhanced_repository": "enhansome/enhansome-vla-for-ad",
+    "enhanced_repository_description": null,
+    "title": ":sunglasses: Awesome VLA for Autonomous Driving with stars"
+  }
+}
