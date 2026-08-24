@@ -675,7 +675,7 @@
                 "last_commit": "2026-02-04T04:46:08Z",
                 "owner": "LogosRoboticsGroup",
                 "repo": "SeerDrive",
-                "stars": 73
+                "stars": 74
               }
             },
             {
@@ -1055,7 +1055,7 @@
                 "last_commit": "2026-05-29T09:55:21Z",
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 630
+                "stars": 631
               }
             },
             {
@@ -1219,7 +1219,7 @@
                 "last_commit": "2026-08-18T06:57:50Z",
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
-                "stars": 591
+                "stars": 592
               }
             },
             {
@@ -1322,7 +1322,7 @@
                 "last_commit": "2026-02-19T05:33:57Z",
                 "owner": "argoverse",
                 "repo": "av2-api",
-                "stars": 413
+                "stars": 414
               }
             },
             {
@@ -1597,7 +1597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:27:56.124Z",
+    "last_updated": "2026-08-24T22:57:18.214Z",
     "original_repository": "worldbench/awesome-vla-for-ad",
     "original_repository_id": 1052088443,
     "original_repository_sha": "44528e9300a2df74a8dbd45a35316720f37e1349",
