@@ -167,7 +167,7 @@
                 "last_commit": "2026-08-24T14:00:46Z",
                 "owner": "OpenDriveLab",
                 "repo": "SimScale",
-                "stars": 316
+                "stars": 317
               }
             }
           ],
@@ -204,7 +204,7 @@
                 "last_commit": "2025-10-29T03:13:35Z",
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4738
+                "stars": 4739
               }
             },
             {
@@ -234,7 +234,7 @@
                 "last_commit": "2025-07-02T05:22:29Z",
                 "owner": "OpenDriveLab",
                 "repo": "OccNet",
-                "stars": 705
+                "stars": 704
               }
             },
             {
@@ -324,7 +324,7 @@
                 "last_commit": "2025-12-08T08:31:06Z",
                 "owner": "hustvl",
                 "repo": "DiffusionDrive",
-                "stars": 1479
+                "stars": 1480
               }
             },
             {
@@ -339,7 +339,7 @@
                 "last_commit": "2025-07-14T12:12:25Z",
                 "owner": "YvanYin",
                 "repo": "GoalFlow",
-                "stars": 414
+                "stars": 415
               }
             },
             {
@@ -426,10 +426,10 @@
                 "archived": false,
                 "id": 1171424744,
                 "language": "Python",
-                "last_commit": "2026-06-30T14:55:22Z",
+                "last_commit": "2026-08-25T11:03:05Z",
                 "owner": "dmholtz",
                 "repo": "bevad",
-                "stars": 27
+                "stars": 28
               }
             }
           ],
@@ -451,7 +451,7 @@
                 "last_commit": "2024-11-29T09:45:52Z",
                 "owner": "JeffWang987",
                 "repo": "DriveDreamer",
-                "stars": 591
+                "stars": 593
               }
             },
             {
@@ -481,7 +481,7 @@
                 "last_commit": "2023-12-07T02:40:39Z",
                 "owner": "BraveGroup",
                 "repo": "Drive-WM",
-                "stars": 438
+                "stars": 439
               }
             },
             {
@@ -496,7 +496,7 @@
                 "last_commit": "2025-01-15T04:19:03Z",
                 "owner": "YvanYin",
                 "repo": "DrivingWorld",
-                "stars": 246
+                "stars": 247
               }
             },
             {
@@ -1100,7 +1100,7 @@
                 "last_commit": "2026-02-16T08:36:33Z",
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
-                "stars": 793
+                "stars": 794
               }
             },
             {
@@ -1219,7 +1219,7 @@
                 "last_commit": "2026-08-18T06:57:50Z",
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
-                "stars": 593
+                "stars": 594
               }
             },
             {
@@ -1277,7 +1277,7 @@
                 "last_commit": "2024-03-09T10:30:02Z",
                 "owner": "bdd100k",
                 "repo": "bdd100k",
-                "stars": 568
+                "stars": 570
               }
             },
             {
@@ -1292,7 +1292,7 @@
                 "last_commit": "2026-01-08T22:00:08Z",
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3394
+                "stars": 3395
               }
             },
             {
@@ -1367,7 +1367,7 @@
                 "last_commit": "2026-01-08T22:00:08Z",
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3394
+                "stars": 3395
               }
             }
           ],
@@ -1597,7 +1597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:17:17.488Z",
+    "last_updated": "2026-08-25T22:59:07.652Z",
     "original_repository": "worldbench/awesome-vla-for-ad",
     "original_repository_id": 1052088443,
     "original_repository_sha": "44528e9300a2df74a8dbd45a35316720f37e1349",
