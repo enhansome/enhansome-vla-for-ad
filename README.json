@@ -167,7 +167,7 @@
                 "last_commit": "2026-08-24T14:00:46Z",
                 "owner": "OpenDriveLab",
                 "repo": "SimScale",
-                "stars": 317
+                "stars": 318
               }
             }
           ],
@@ -204,7 +204,7 @@
                 "last_commit": "2025-10-29T03:13:35Z",
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4737
+                "stars": 4738
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2025-05-27T02:51:19Z",
                 "owner": "wzzheng",
                 "repo": "GenAD",
-                "stars": 495
+                "stars": 496
               }
             },
             {
@@ -324,7 +324,7 @@
                 "last_commit": "2025-12-08T08:31:06Z",
                 "owner": "hustvl",
                 "repo": "DiffusionDrive",
-                "stars": 1480
+                "stars": 1481
               }
             },
             {
@@ -411,7 +411,7 @@
                 "archived": false,
                 "id": 1128344051,
                 "language": "Python",
-                "last_commit": "2026-06-26T10:14:09Z",
+                "last_commit": "2026-08-27T10:42:35Z",
                 "owner": "valeoai",
                 "repo": "DrivoR",
                 "stars": 264
@@ -593,7 +593,7 @@
                 "last_commit": "2026-06-18T05:04:31Z",
                 "owner": "Ma-Zhuang",
                 "repo": "OmniNWM",
-                "stars": 366
+                "stars": 367
               }
             },
             {
@@ -690,7 +690,7 @@
                 "last_commit": "2026-03-22T18:57:07Z",
                 "owner": "linhanwang",
                 "repo": "Drive-JEPA",
-                "stars": 183
+                "stars": 184
               }
             }
           ],
@@ -883,7 +883,7 @@
                 "last_commit": "2025-12-12T00:25:42Z",
                 "owner": "worldbench",
                 "repo": "DriveBench",
-                "stars": 247
+                "stars": 248
               }
             },
             {
@@ -1040,7 +1040,7 @@
                 "last_commit": "2025-08-25T13:17:14Z",
                 "owner": "RenzKa",
                 "repo": "simlingo",
-                "stars": 445
+                "stars": 446
               }
             },
             {
@@ -1055,7 +1055,7 @@
                 "last_commit": "2026-05-29T09:55:21Z",
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 633
+                "stars": 634
               }
             },
             {
@@ -1115,7 +1115,7 @@
                 "last_commit": "2026-03-13T00:55:10Z",
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Flow",
-                "stars": 358
+                "stars": 360
               }
             },
             {
@@ -1130,7 +1130,7 @@
                 "last_commit": "2026-03-26T06:35:00Z",
                 "owner": "pqh22",
                 "repo": "ColaVLA",
-                "stars": 63
+                "stars": 64
               }
             }
           ],
@@ -1219,7 +1219,7 @@
                 "last_commit": "2026-08-18T06:57:50Z",
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
-                "stars": 594
+                "stars": 595
               }
             },
             {
@@ -1337,7 +1337,7 @@
                 "last_commit": "2026-08-11T04:01:59Z",
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1926
+                "stars": 1927
               }
             },
             {
@@ -1539,7 +1539,7 @@
                 "last_commit": "2025-12-12T00:25:42Z",
                 "owner": "worldbench",
                 "repo": "DriveBench",
-                "stars": 247
+                "stars": 248
               }
             },
             {
@@ -1597,9 +1597,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:32:07.240Z",
-    "original_repository": "worldbench/awesome-vla-for-ad",
-    "original_repository_id": 1052088443,
+    "last_updated": "2026-08-27T12:10:15.524Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1052088443,
+      "language": "HTML",
+      "last_commit": "2026-08-21T04:32:52Z",
+      "owner": "worldbench",
+      "repo": "awesome-vla-for-ad",
+      "stars": 466
+    },
     "original_repository_sha": "44528e9300a2df74a8dbd45a35316720f37e1349",
     "enhanced_repository": "enhansome/enhansome-vla-for-ad",
     "enhanced_repository_description": null,
