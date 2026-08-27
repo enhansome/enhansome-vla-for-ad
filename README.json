@@ -122,7 +122,7 @@
                 "last_commit": "2025-10-19T17:12:20Z",
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1598
+                "stars": 1599
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2025-10-29T03:13:35Z",
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4739
+                "stars": 4737
               }
             },
             {
@@ -294,7 +294,7 @@
                 "last_commit": "2026-03-21T05:08:59Z",
                 "owner": "Thinklab-SJTU",
                 "repo": "DriveTransformer",
-                "stars": 237
+                "stars": 238
               }
             },
             {
@@ -384,7 +384,7 @@
                 "last_commit": "2025-12-29T02:11:53Z",
                 "owner": "hustvl",
                 "repo": "DiffusionDriveV2",
-                "stars": 359
+                "stars": 360
               }
             },
             {
@@ -414,7 +414,7 @@
                 "last_commit": "2026-06-26T10:14:09Z",
                 "owner": "valeoai",
                 "repo": "DrivoR",
-                "stars": 263
+                "stars": 264
               }
             },
             {
@@ -429,7 +429,7 @@
                 "last_commit": "2026-08-25T11:03:05Z",
                 "owner": "dmholtz",
                 "repo": "bevad",
-                "stars": 28
+                "stars": 29
               }
             }
           ],
@@ -451,7 +451,7 @@
                 "last_commit": "2024-11-29T09:45:52Z",
                 "owner": "JeffWang987",
                 "repo": "DriveDreamer",
-                "stars": 593
+                "stars": 594
               }
             },
             {
@@ -511,7 +511,7 @@
                 "last_commit": "2025-07-22T06:35:46Z",
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 384
+                "stars": 385
               }
             },
             {
@@ -526,7 +526,7 @@
                 "last_commit": "2025-07-03T10:02:35Z",
                 "owner": "valeoai",
                 "repo": "VideoActionModel",
-                "stars": 164
+                "stars": 165
               }
             },
             {
@@ -608,7 +608,7 @@
                 "last_commit": "2026-02-01T14:35:40Z",
                 "owner": "MSunDYY",
                 "repo": "SparseOccVLA",
-                "stars": 82
+                "stars": 83
               }
             }
           ],
@@ -748,7 +748,7 @@
                 "last_commit": "2025-07-02T05:29:49Z",
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1337
+                "stars": 1338
               }
             },
             {
@@ -838,7 +838,7 @@
                 "last_commit": "2025-05-13T06:26:21Z",
                 "owner": "taco-group",
                 "repo": "OpenEMMA",
-                "stars": 950
+                "stars": 951
               }
             },
             {
@@ -1055,7 +1055,7 @@
                 "last_commit": "2026-05-29T09:55:21Z",
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 631
+                "stars": 633
               }
             },
             {
@@ -1100,7 +1100,7 @@
                 "last_commit": "2026-02-16T08:36:33Z",
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
-                "stars": 794
+                "stars": 795
               }
             },
             {
@@ -1292,7 +1292,7 @@
                 "last_commit": "2026-01-08T22:00:08Z",
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3395
+                "stars": 3398
               }
             },
             {
@@ -1367,7 +1367,7 @@
                 "last_commit": "2026-01-08T22:00:08Z",
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3395
+                "stars": 3398
               }
             }
           ],
@@ -1464,7 +1464,7 @@
                 "last_commit": "2025-07-02T05:29:49Z",
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1337
+                "stars": 1338
               }
             },
             {
@@ -1597,7 +1597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:59:07.652Z",
+    "last_updated": "2026-08-27T03:32:07.240Z",
     "original_repository": "worldbench/awesome-vla-for-ad",
     "original_repository_id": 1052088443,
     "original_repository_sha": "44528e9300a2df74a8dbd45a35316720f37e1349",
