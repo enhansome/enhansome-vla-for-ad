@@ -18,7 +18,8 @@
                 "owner": "dotchen",
                 "repo": "LearningByCheating",
                 "stars": 339
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "autonomousvision",
                 "repo": "neat",
                 "stars": 330
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2023-09-23T19:18:58Z",
                 "owner": "zhejz",
                 "repo": "carla-roach",
-                "stars": 398
-              }
+                "stars": 399
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "dotchen",
                 "repo": "WorldOnRails",
                 "stars": 185
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "OpenDriveLab",
                 "repo": "TCP",
                 "stars": 485
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "woven-by-toyota",
                 "repo": "l5kit",
                 "stars": 881
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "dotchen",
                 "repo": "LAV",
                 "stars": 441
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "autonomousvision",
                 "repo": "transfuser",
                 "stars": 1599
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -137,8 +145,9 @@
                 "last_commit": "2024-06-18T18:26:33Z",
                 "owner": "NVlabs",
                 "repo": "BEV-Planner",
-                "stars": 259
-              }
+                "stars": 260
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "TabGuigui",
                 "repo": "TrajDiff",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "OpenDriveLab",
                 "repo": "SimScale",
                 "stars": 318
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             }
           ],
           "description": ":timer_clock: In chronological order, from the earliest to the latest.",
@@ -190,7 +201,8 @@
                 "owner": "OpenDriveLab",
                 "repo": "ST-P3",
                 "stars": 439
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -204,8 +216,9 @@
                 "last_commit": "2025-10-29T03:13:35Z",
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4738
-              }
+                "stars": 4739
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -219,8 +232,9 @@
                 "last_commit": "2026-01-31T08:13:44Z",
                 "owner": "hustvl",
                 "repo": "VAD",
-                "stars": 1362
-              }
+                "stars": 1364
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "OpenDriveLab",
                 "repo": "OccNet",
                 "stars": 704
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "wzzheng",
                 "repo": "GenAD",
                 "stars": 496
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "NVlabs",
                 "repo": "Hydra-MDP",
                 "stars": 417
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "suhaisheng",
                 "repo": "EgoFSD",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "Thinklab-SJTU",
                 "repo": "DriveTransformer",
                 "stars": 238
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "swc-17",
                 "repo": "SparseDrive",
                 "stars": 994
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "hustvl",
                 "repo": "DiffusionDrive",
                 "stars": 1481
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "YvanYin",
                 "repo": "GoalFlow",
                 "stars": 415
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "liulin815",
                 "repo": "GuideFlow",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -369,8 +392,9 @@
                 "last_commit": "2025-07-02T05:30:20Z",
                 "owner": "OpenDriveLab",
                 "repo": "ETA",
-                "stars": 47
-              }
+                "stars": 48
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -385,7 +409,8 @@
                 "owner": "hustvl",
                 "repo": "DiffusionDriveV2",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -400,7 +425,8 @@
                 "owner": "ZebinX",
                 "repo": "Mimir-Uncertainty-Driving",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -411,11 +437,12 @@
                 "archived": false,
                 "id": 1128344051,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:42:35Z",
+                "last_commit": "2026-08-27T17:35:22Z",
                 "owner": "valeoai",
                 "repo": "DrivoR",
                 "stars": 264
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "dmholtz",
                 "repo": "bevad",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             }
           ],
           "description": ":timer_clock: In chronological order, from the earliest to the latest.",
@@ -452,7 +480,8 @@
                 "owner": "JeffWang987",
                 "repo": "DriveDreamer",
                 "stars": 594
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -467,7 +496,8 @@
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
                 "stars": 805
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -482,7 +512,8 @@
                 "owner": "BraveGroup",
                 "repo": "Drive-WM",
                 "stars": 439
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -497,7 +528,8 @@
                 "owner": "YvanYin",
                 "repo": "DrivingWorld",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -512,7 +544,8 @@
                 "owner": "Kevin-thu",
                 "repo": "Epona",
                 "stars": 385
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -527,7 +560,8 @@
                 "owner": "valeoai",
                 "repo": "VideoActionModel",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -542,7 +576,8 @@
                 "owner": "TabGuigui",
                 "repo": "WorldDrive",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             }
           ],
           "description": ":timer_clock: In chronological order, from the earliest to the latest.",
@@ -564,7 +599,8 @@
                 "owner": "wzzheng",
                 "repo": "OccWorld",
                 "stars": 579
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -579,7 +615,8 @@
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -593,8 +630,9 @@
                 "last_commit": "2026-06-18T05:04:31Z",
                 "owner": "Ma-Zhuang",
                 "repo": "OmniNWM",
-                "stars": 367
-              }
+                "stars": 368
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -609,7 +647,8 @@
                 "owner": "MSunDYY",
                 "repo": "SparseOccVLA",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             }
           ],
           "description": ":timer_clock: In chronological order, from the earliest to the latest.",
@@ -631,7 +670,8 @@
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -646,7 +686,8 @@
                 "owner": "BraveGroup",
                 "repo": "LAW",
                 "stars": 387
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -661,7 +702,8 @@
                 "owner": "PeidongLi",
                 "repo": "SSR",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -676,7 +718,8 @@
                 "owner": "LogosRoboticsGroup",
                 "repo": "SeerDrive",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -691,7 +734,8 @@
                 "owner": "linhanwang",
                 "repo": "Drive-JEPA",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             }
           ],
           "description": ":timer_clock: In chronological order, from the earliest to the latest.",
@@ -719,7 +763,8 @@
                 "owner": "OpenGVLab",
                 "repo": "DriveMLM",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -734,7 +779,8 @@
                 "owner": "YuanJianhao508",
                 "repo": "RAG-Driver",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -749,7 +795,8 @@
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
                 "stars": 1338
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -764,7 +811,8 @@
                 "owner": "sled-group",
                 "repo": "driVLMe",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -779,7 +827,8 @@
                 "owner": "Boyiliee",
                 "repo": "LLaDA-AV",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -794,7 +843,8 @@
                 "owner": "sungyeonparkk",
                 "repo": "vision-assistant-for-driving",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -809,7 +859,8 @@
                 "owner": "wzzheng",
                 "repo": "Doe",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -824,7 +875,8 @@
                 "owner": "AI-secure",
                 "repo": "SafeAuto",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -839,7 +891,8 @@
                 "owner": "taco-group",
                 "repo": "OpenEMMA",
                 "stars": 951
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -854,7 +907,8 @@
                 "owner": "Liuxueyi",
                 "repo": "ReasonPlan",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -869,7 +923,8 @@
                 "owner": "NVlabs",
                 "repo": "OmniDrive",
                 "stars": 637
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -884,7 +939,8 @@
                 "owner": "worldbench",
                 "repo": "DriveBench",
                 "stars": 248
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -898,8 +954,9 @@
                 "last_commit": "2026-05-08T05:08:02Z",
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 821
-              }
+                "stars": 822
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -914,7 +971,8 @@
                 "owner": "ahydchh",
                 "repo": "Impromptu-VLA",
                 "stars": 423
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -929,7 +987,8 @@
                 "owner": "wyddmw",
                 "repo": "WiseAD",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -944,7 +1003,8 @@
                 "owner": "wyddmw",
                 "repo": "OpenREAD",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -959,7 +1019,8 @@
                 "owner": "hustvl",
                 "repo": "AlphaDrive",
                 "stars": 334
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -974,7 +1035,8 @@
                 "owner": "FanGShiYuu",
                 "repo": "CoReVLA",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -989,7 +1051,8 @@
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Diff",
                 "stars": 298
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             }
           ],
           "description": ":timer_clock: In chronological order, from the earliest to the latest.",
@@ -1011,7 +1074,8 @@
                 "owner": "opendilab",
                 "repo": "LMDrive",
                 "stars": 929
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1026,7 +1090,8 @@
                 "owner": "xiaomi-mlab",
                 "repo": "Orion",
                 "stars": 661
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1040,8 +1105,9 @@
                 "last_commit": "2025-08-25T13:17:14Z",
                 "owner": "RenzKa",
                 "repo": "simlingo",
-                "stars": 446
-              }
+                "stars": 447
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1056,7 +1122,8 @@
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
                 "stars": 634
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1071,7 +1138,8 @@
                 "owner": "Thinklab-SJTU",
                 "repo": "DriveMoE",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1086,7 +1154,8 @@
                 "owner": "pixeli99",
                 "repo": "ReflectDrive",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1101,7 +1170,8 @@
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
                 "stars": 795
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1116,7 +1186,8 @@
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Flow",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1131,7 +1202,8 @@
                 "owner": "pqh22",
                 "repo": "ColaVLA",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             }
           ],
           "description": ":timer_clock: In chronological order, from the earliest to the latest.",
@@ -1153,7 +1225,8 @@
                 "owner": "PJLab-ADG",
                 "repo": "LeapAD",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1168,7 +1241,8 @@
                 "owner": "hustvl",
                 "repo": "Senna",
                 "stars": 553
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1183,7 +1257,8 @@
                 "owner": "TUM-AVS",
                 "repo": "DualAD",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             }
           ],
           "description": ":timer_clock: In chronological order, from the earliest to the latest.",
@@ -1205,7 +1280,8 @@
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1220,7 +1296,8 @@
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
                 "stars": 595
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1235,7 +1312,8 @@
                 "owner": "ruiqi-song",
                 "repo": "InsightDrive",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1250,7 +1328,8 @@
                 "owner": "Rex-sys-hk",
                 "repo": "NetRoller",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             }
           ],
           "description": ":timer_clock: In chronological order, from the earliest to the latest.",
@@ -1278,7 +1357,8 @@
                 "owner": "bdd100k",
                 "repo": "bdd100k",
                 "stars": 570
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1292,8 +1372,9 @@
                 "last_commit": "2026-01-08T22:00:08Z",
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3398
-              }
+                "stars": 3400
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1308,7 +1389,8 @@
                 "owner": "motional",
                 "repo": "nuplan-devkit",
                 "stars": 1028
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1323,7 +1405,8 @@
                 "owner": "argoverse",
                 "repo": "av2-api",
                 "stars": 414
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1338,7 +1421,8 @@
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
                 "stars": 1927
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1352,8 +1436,9 @@
                 "last_commit": "2025-12-06T11:03:02Z",
                 "owner": "worldbench",
                 "repo": "RoboBEV",
-                "stars": 424
-              }
+                "stars": 425
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1367,8 +1452,9 @@
                 "last_commit": "2026-01-08T22:00:08Z",
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3398
-              }
+                "stars": 3400
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             }
           ],
           "description": null,
@@ -1390,7 +1476,8 @@
                 "owner": "JinkyuKimUCB",
                 "repo": "BDD-X-dataset",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1405,7 +1492,8 @@
                 "owner": "ThierryDeruyttere",
                 "repo": "Talk2Car-Trajectory",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1420,7 +1508,8 @@
                 "owner": "sled-group",
                 "repo": "DOROTHIE",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1435,7 +1524,8 @@
                 "owner": "OpenGVLab",
                 "repo": "DriveMLM",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1450,7 +1540,8 @@
                 "owner": "opendilab",
                 "repo": "LMDrive",
                 "stars": 929
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1465,7 +1556,8 @@
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
                 "stars": 1338
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1480,7 +1572,8 @@
                 "owner": "sungyeonparkk",
                 "repo": "vision-assistant-for-driving",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1495,7 +1588,8 @@
                 "owner": "xmed-lab",
                 "repo": "NuInstruct",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1510,7 +1604,8 @@
                 "owner": "yhli123",
                 "repo": "WOMD-Reasoning",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1525,7 +1620,8 @@
                 "owner": "fudan-zvg",
                 "repo": "Reason2Drive",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1540,7 +1636,8 @@
                 "owner": "worldbench",
                 "repo": "DriveBench",
                 "stars": 248
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1555,7 +1652,8 @@
                 "owner": "hustvl",
                 "repo": "AlphaDrive",
                 "stars": 334
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1570,7 +1668,8 @@
                 "owner": "NVlabs",
                 "repo": "OmniDrive",
                 "stars": 637
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             },
             {
               "node_type": "item",
@@ -1585,7 +1684,8 @@
                 "owner": "ahydchh",
                 "repo": "Impromptu-VLA",
                 "stars": 423
-              }
+              },
+              "first_seen": "2026-08-28T06:17:23.797Z"
             }
           ],
           "description": null,
@@ -1597,7 +1697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:10:15.524Z",
+    "last_updated": "2026-08-28T06:17:23.797Z",
     "original_repository_info": {
       "archived": false,
       "id": 1052088443,
@@ -1605,7 +1705,7 @@
       "last_commit": "2026-08-21T04:32:52Z",
       "owner": "worldbench",
       "repo": "awesome-vla-for-ad",
-      "stars": 466
+      "stars": 467
     },
     "original_repository_sha": "44528e9300a2df74a8dbd45a35316720f37e1349",
     "enhanced_repository": "enhansome/enhansome-vla-for-ad",
