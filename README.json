@@ -1676,7 +1676,7 @@
                 "open_issues": 2,
                 "owner": "pixeli99",
                 "repo": "ReflectDrive",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:50:46.675Z",
+    "last_updated": "2026-08-29T04:47:13.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
