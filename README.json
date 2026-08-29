@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(CoRL 2019) Driving in CARLA using waypoint prediction and two-stage imitation learning",
+                "homepage": null,
                 "id": 213052354,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-18T05:11:42Z",
+                "open_issues": 11,
                 "owner": "dotchen",
                 "repo": "LearningByCheating",
-                "stars": 339
+                "stars": 339,
+                "topics": [
+                  "autonomous-vehicles",
+                  "carla",
+                  "deep-learning",
+                  "imitation-learning",
+                  "pytorch",
+                  "robotics",
+                  "sensorimotor-learning"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -28,12 +41,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV'21] NEAT: Neural Attention Fields for End-to-End Autonomous Driving",
+                "homepage": null,
                 "id": 397601459,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-22T15:35:54Z",
+                "open_issues": 4,
                 "owner": "autonomousvision",
                 "repo": "neat",
-                "stars": 330
+                "stars": 330,
+                "topics": [
+                  "autonomous-driving",
+                  "birds-eye-view",
+                  "iccv2021",
+                  "imitation-learning",
+                  "implicit-representations"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -44,12 +68,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Roach: End-to-End Urban Driving by Imitating a Reinforcement Learning Coach. ICCV 2021.",
+                "homepage": "https://zhejz.github.io/roach",
                 "id": 393982236,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-23T19:18:58Z",
+                "open_issues": 1,
                 "owner": "zhejz",
                 "repo": "carla-roach",
-                "stars": 399
+                "stars": 399,
+                "topics": [
+                  "autonomous-driving",
+                  "carla",
+                  "iccv2021",
+                  "imitation-learning",
+                  "pytorch",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -60,12 +96,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ICCV 2021, Oral) RL and distillation in CARLA using a factorized world model",
+                "homepage": "https://dotchen.github.io/world_on_rails/",
                 "id": 358415838,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-02-17T18:19:23Z",
+                "open_issues": 13,
                 "owner": "dotchen",
                 "repo": "WorldOnRails",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "autonomous-driving",
+                  "carla-simulator",
+                  "distillation",
+                  "iccv2021",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -76,12 +123,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022] Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline.",
+                "homepage": null,
                 "id": 504117044,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-02T05:23:05Z",
+                "open_issues": 28,
                 "owner": "OpenDriveLab",
                 "repo": "TCP",
-                "stars": 485
+                "stars": 485,
+                "topics": [
+                  "carla-driving-simulator",
+                  "end-to-end-autonomous-driving"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -92,12 +147,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "L5Kit - https://woven.toyota",
+                "homepage": "https://woven-by-toyota.github.io/l5kit",
                 "id": 273358581,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-14T01:32:40Z",
+                "open_issues": 47,
                 "owner": "woven-by-toyota",
                 "repo": "l5kit",
-                "stars": 881
+                "stars": 881,
+                "topics": [
+                  "autonomous-vehicles",
+                  "machine-learning",
+                  "planning",
+                  "self-driving"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -108,12 +173,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(CVPR 2022) A minimalist, mapless, end-to-end self-driving stack for joint perception, prediction, planning and control.",
+                "homepage": "https://dotchen.github.io/LAV/",
                 "id": 459059869,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-13T22:55:32Z",
+                "open_issues": 29,
                 "owner": "dotchen",
                 "repo": "LAV",
-                "stars": 441
+                "stars": 441,
+                "topics": [
+                  "autonomous-driving",
+                  "carla-simulator",
+                  "cvpr2022",
+                  "distillation",
+                  "imitation-learning",
+                  "perception",
+                  "planning",
+                  "prediction"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -124,12 +203,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[PAMI'23] TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving; [CVPR'21] Multi-Modal Fusion Transformer for End-to-End Autonomous Driving",
+                "homepage": null,
                 "id": 351720449,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-19T17:12:20Z",
+                "open_issues": 1,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1599
+                "stars": 1599,
+                "topics": [
+                  "autonomous-driving",
+                  "imitation-learning",
+                  "sensor-fusion",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -140,12 +229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 727622991,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-18T18:26:33Z",
+                "open_issues": 4,
                 "owner": "NVlabs",
                 "repo": "BEV-Planner",
-                "stars": 260
+                "stars": 259,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -156,12 +250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of TrajDiff: End-to-end Autonomous Driving without Perception Annotation",
+                "homepage": null,
                 "id": 1116563237,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-28T02:19:43Z",
+                "open_issues": 0,
                 "owner": "TabGuigui",
                 "repo": "TrajDiff",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -172,12 +271,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026 Oral] Learning to Drive via Real-World Simulation at Scale",
+                "homepage": "https://opendrivelab.com/SimScale/",
                 "id": 1106396319,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T14:00:46Z",
+                "open_issues": 1,
                 "owner": "OpenDriveLab",
                 "repo": "SimScale",
-                "stars": 318
+                "stars": 318,
+                "topics": [
+                  "autonomous-driving",
+                  "co-training",
+                  "data-scaling-laws",
+                  "sim-to-real",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             }
@@ -195,12 +305,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022] ST-P3, an end-to-end vision-based autonomous driving framework via spatial-temporal feature learning.",
+                "homepage": null,
                 "id": 509361027,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-02T05:23:23Z",
+                "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "ST-P3",
-                "stars": 439
+                "stars": 439,
+                "topics": [
+                  "end-to-end-autonomous-driving",
+                  "perception-prediction-planning"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -211,12 +329,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023 Best Paper Award] Planning-oriented Autonomous Driving",
+                "homepage": null,
                 "id": 575306900,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-29T03:13:35Z",
+                "open_issues": 126,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4739
+                "stars": 4739,
+                "topics": [
+                  "autonomous-driving",
+                  "autonomous-driving-framework",
+                  "bev-segmentation",
+                  "end-to-end-autonomous-driving",
+                  "motion-planning",
+                  "motion-prediction",
+                  "multi-object-tracking",
+                  "occupancy-prediction",
+                  "perception-prediction-planning"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -227,12 +360,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023 & ICLR 2026] VAD: Vectorized Scene Representation for Efficient Autonomous Driving",
+                "homepage": "https://arxiv.org/abs/2303.12077",
                 "id": 602453355,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-31T08:13:44Z",
+                "open_issues": 78,
                 "owner": "hustvl",
                 "repo": "VAD",
-                "stars": 1364
+                "stars": 1363,
+                "topics": [
+                  "autonomous-driving",
+                  "end-to-end"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -243,12 +384,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] OccNet: Scene as Occupancy",
+                "homepage": "https://arxiv.org/abs/2306.02851",
                 "id": 649245260,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-02T05:22:29Z",
+                "open_issues": 26,
                 "owner": "OpenDriveLab",
                 "repo": "OccNet",
-                "stars": 704
+                "stars": 704,
+                "topics": [
+                  "3d-object-detection",
+                  "3d-occupancy",
+                  "autonomous-driving"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -259,12 +409,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] GenAD: Generative End-to-End Autonomous Driving",
+                "homepage": null,
                 "id": 760324942,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-27T02:51:19Z",
+                "open_issues": 11,
                 "owner": "wzzheng",
                 "repo": "GenAD",
-                "stars": 496
+                "stars": 496,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -275,12 +430,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 816947188,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-30T07:21:02Z",
+                "open_issues": 10,
                 "owner": "NVlabs",
                 "repo": "Hydra-MDP",
-                "stars": 417
+                "stars": 417,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -291,12 +451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EgoFSD: Ego-Centric Fully Sparse Paradigm for End-to-End Self-Driving",
+                "homepage": null,
                 "id": 893758412,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-26T11:46:05Z",
+                "open_issues": 0,
                 "owner": "suhaisheng",
                 "repo": "EgoFSD",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -307,12 +472,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] DriveTransformer: Unified Transformer for Scalable End-to-End Autonomous Driving",
+                "homepage": null,
                 "id": 943914367,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-21T05:08:59Z",
+                "open_issues": 8,
                 "owner": "Thinklab-SJTU",
                 "repo": "DriveTransformer",
-                "stars": 238
+                "stars": 238,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -323,12 +493,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation",
+                "homepage": null,
                 "id": 807521983,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-01T02:48:10Z",
+                "open_issues": 35,
                 "owner": "swc-17",
                 "repo": "SparseDrive",
-                "stars": 994
+                "stars": 994,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -339,12 +514,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2025 Highlight] Truncated Diffusion Model for Real-Time End-to-End Autonomous Driving",
+                "homepage": "https://arxiv.org/abs/2411.15139",
                 "id": 888803834,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-08T08:31:06Z",
+                "open_issues": 29,
                 "owner": "hustvl",
                 "repo": "DiffusionDrive",
-                "stars": 1481
+                "stars": 1481,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -355,12 +535,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo of \"GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving\"",
+                "homepage": null,
                 "id": 939885088,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-14T12:12:25Z",
+                "open_issues": 17,
                 "owner": "YvanYin",
                 "repo": "GoalFlow",
-                "stars": 415
+                "stars": 416,
+                "topics": [
+                  "autonomous-driving",
+                  "end-to-end-driving",
+                  "trajectory-generation",
+                  "trajectory-planning"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -371,12 +561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1095411464,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-21T13:30:51Z",
+                "open_issues": 3,
                 "owner": "liulin815",
                 "repo": "GuideFlow",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -387,12 +582,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] ETA: Efficiency through Thinking Ahead, A Dual Approach to Self-Driving with Large Models",
+                "homepage": "https://arxiv.org/abs/2506.07725",
                 "id": 998015564,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-02T05:30:20Z",
+                "open_issues": 3,
                 "owner": "OpenDriveLab",
                 "repo": "ETA",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "autonomous-driving",
+                  "dual-system"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -403,12 +606,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving",
+                "homepage": null,
                 "id": 1112762841,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-29T02:11:53Z",
+                "open_issues": 20,
                 "owner": "hustvl",
                 "repo": "DiffusionDriveV2",
-                "stars": 360
+                "stars": 360,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -419,12 +627,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official repo of \"Mimir: Hierarchical Goal-Driven Diffusion with Uncertainty Propagation for End-to-End Autonomous Driving\"",
+                "homepage": null,
                 "id": 1106077437,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T07:41:20Z",
+                "open_issues": 4,
                 "owner": "ZebinX",
                 "repo": "Mimir-Uncertainty-Driving",
-                "stars": 20
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -435,12 +648,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2026] DrivoR: an end-to-end driving model by driving on registers",
+                "homepage": null,
                 "id": 1128344051,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T17:35:22Z",
+                "open_issues": 9,
                 "owner": "valeoai",
                 "repo": "DrivoR",
-                "stars": 264
+                "stars": 264,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -451,12 +669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "End-to-end autonomous driving - CVPR Findings 2026",
+                "homepage": "https://dmholtz.github.io/bevad/",
                 "id": 1171424744,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T11:03:05Z",
+                "open_issues": 1,
                 "owner": "dmholtz",
                 "repo": "bevad",
-                "stars": 29
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             }
@@ -474,12 +697,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving",
+                "homepage": null,
                 "id": 692705523,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-29T09:45:52Z",
+                "open_issues": 24,
                 "owner": "JeffWang987",
                 "repo": "DriveDreamer",
-                "stars": 594
+                "stars": 594,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -490,12 +718,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024 Highlight] GenAD: Generalized Predictive Model for Autonomous Driving ",
+                "homepage": "https://opendrivelab.com/AutonomousDriving",
                 "id": 632101482,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-27T12:40:42Z",
+                "open_issues": 11,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 805
+                "stars": 805,
+                "topics": [
+                  "autonomous-driving",
+                  "embodied-ai",
+                  "foundation-model",
+                  "general-artificial-intelligence",
+                  "large-dataset",
+                  "policy-learning",
+                  "video-dataset",
+                  "video-generation",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -506,12 +749,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] A world model for autonomous driving.",
+                "homepage": null,
                 "id": 720275234,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-07T02:40:39Z",
+                "open_issues": 8,
                 "owner": "BraveGroup",
                 "repo": "Drive-WM",
-                "stars": 439
+                "stars": 439,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -522,12 +770,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT\"",
+                "homepage": "https://huxiaotaostasy.github.io/DrivingWorld/index.html",
                 "id": 908133244,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-15T04:19:03Z",
+                "open_issues": 5,
                 "owner": "YvanYin",
                 "repo": "DrivingWorld",
-                "stars": 247
+                "stars": 247,
+                "topics": [
+                  "autonomous-driving",
+                  "driving-world-model",
+                  "generative-model",
+                  "gpt",
+                  "video-generation",
+                  "video-gpt",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -538,12 +799,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code for Epona: Autoregressive Diffusion World Model for Autonomous Driving (ICCV 2025)",
+                "homepage": "https://kevin-thu.github.io/Epona/",
                 "id": 1009038213,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-22T06:35:46Z",
+                "open_issues": 6,
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 385
+                "stars": 385,
+                "topics": [
+                  "autonomous-driving",
+                  "diffusion-models",
+                  "video-generation",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -554,12 +825,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VaViM and VaVAM: Autonomous Driving through Video Generative Modeling (official repository).",
+                "homepage": "https://valeoai.github.io/vavim-vavam/",
                 "id": 754994104,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-07-03T10:02:35Z",
+                "open_issues": 1,
                 "owner": "valeoai",
                 "repo": "VideoActionModel",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "autonomous-driving",
+                  "mobile-robots",
+                  "video-generation",
+                  "world-models"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -570,12 +851,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation",
+                "homepage": null,
                 "id": 1181536271,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-03T03:37:20Z",
+                "open_issues": 0,
                 "owner": "TabGuigui",
                 "repo": "WorldDrive",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             }
@@ -593,12 +879,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] 3D World Model for Autonomous Driving",
+                "homepage": "https://wzzheng.net/OccWorld/",
                 "id": 722421287,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-12T08:22:17Z",
+                "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 579
+                "stars": 579,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -609,12 +900,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2025] Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving",
+                "homepage": "https://drive-occworld.github.io/",
                 "id": 901338212,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-10T03:01:47Z",
+                "open_issues": 5,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 148
+                "stars": 148,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -625,12 +921,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2026] OmniNWM: Omniscient Navigation World Models for Autonomous Driving",
+                "homepage": "https://arlo0o.github.io/OmniNWM/",
                 "id": 1025363637,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-18T05:04:31Z",
+                "open_issues": 5,
                 "owner": "Ma-Zhuang",
                 "repo": "OmniNWM",
-                "stars": 368
+                "stars": 368,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -641,12 +942,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning",
+                "homepage": null,
                 "id": 1133177512,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-01T14:35:40Z",
+                "open_issues": 5,
                 "owner": "MSunDYY",
                 "repo": "SparseOccVLA",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "autonomous-driving",
+                  "occupancy",
+                  "vlm"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             }
@@ -664,12 +974,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ICCV2025) End-to-End Driving with Online Trajectory Evaluation via BEV World Model",
+                "homepage": null,
                 "id": 957745125,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-29T03:43:19Z",
+                "open_issues": 18,
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
-                "stars": 261
+                "stars": 262,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -680,12 +995,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(ICLR2025) Enhancing End-to-End Autonomous Driving with Latent World Model",
+                "homepage": null,
                 "id": 813988509,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-29T03:48:48Z",
+                "open_issues": 22,
                 "owner": "BraveGroup",
                 "repo": "LAW",
-                "stars": 387
+                "stars": 387,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -696,12 +1016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] The official implementation of SSR",
+                "homepage": null,
                 "id": 862258102,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-23T14:54:35Z",
+                "open_issues": 13,
                 "owner": "PeidongLi",
                 "repo": "SSR",
-                "stars": 273
+                "stars": 273,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -712,12 +1037,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2025] Future-Aware End-to-End Driving: Bidirectional Modeling of Trajectory Planning and Scene Evolution",
+                "homepage": null,
                 "id": 1064722073,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-04T04:46:08Z",
+                "open_issues": 4,
                 "owner": "LogosRoboticsGroup",
                 "repo": "SeerDrive",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -728,12 +1058,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo of \"Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving\"",
+                "homepage": null,
                 "id": 1145282710,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-22T18:57:07Z",
+                "open_issues": 4,
                 "owner": "linhanwang",
                 "repo": "Drive-JEPA",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             }
@@ -757,12 +1092,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 731651291,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-12-25T15:52:33Z",
+                "open_issues": 5,
                 "owner": "OpenGVLab",
                 "repo": "DriveMLM",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -773,12 +1113,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[RSS2024] A Multi-Modal Large Language Model with Retrieval-augmented In-context Learning capacity designed for generalisable and explainable end-to-end driving",
+                "homepage": null,
                 "id": 754498941,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-07T15:50:15Z",
+                "open_issues": 7,
                 "owner": "YuanJianhao508",
                 "repo": "RAG-Driver",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -789,12 +1134,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024 Oral] DriveLM: Driving with Graph Visual Question Answering",
+                "homepage": "https://opendrivelab.com/DriveLM/",
                 "id": 676089005,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-02T05:29:49Z",
+                "open_issues": 46,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1338
+                "stars": 1339,
+                "topics": [
+                  "autonomous-driving",
+                  "chain-of-thought",
+                  "graph-of-thoughts",
+                  "large-language-models",
+                  "llm",
+                  "prompt-engineering",
+                  "prompting",
+                  "tree-of-thoughts",
+                  "vision-language"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -805,12 +1165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IROS 2024] Official implementation of paper: DriVLMe: \"Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experience\"s",
+                "homepage": null,
                 "id": 811089086,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-11-16T04:34:36Z",
+                "open_issues": 2,
                 "owner": "sled-group",
                 "repo": "driVLMe",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -821,12 +1186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Driving Everywhere with Large Language Model Policy Adaptation",
+                "homepage": null,
                 "id": 823999335,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-04T08:35:36Z",
+                "open_issues": 0,
                 "owner": "Boyiliee",
                 "repo": "LLaDA-AV",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -837,12 +1207,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 675565871,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-20T07:28:06Z",
+                "open_issues": 6,
                 "owner": "sungyeonparkk",
                 "repo": "vision-assistant-for-driving",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -853,12 +1228,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Doe-1: Closed-Loop Autonomous Driving with Large World Model",
+                "homepage": "https://wzzheng.net/Doe",
                 "id": 901395235,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-21T20:55:11Z",
+                "open_issues": 8,
                 "owner": "wzzheng",
                 "repo": "Doe",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -869,12 +1249,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2025] SafeAuto: Knowledge-Enhanced Safe Autonomous Driving with Multimodal Foundation Models",
+                "homepage": null,
                 "id": 992594178,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-02T07:14:44Z",
+                "open_issues": 6,
                 "owner": "AI-secure",
                 "repo": "SafeAuto",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -885,12 +1270,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenEMMA, a permissively licensed open source \"reproduction\" of Waymo’s EMMA model.",
+                "homepage": "https://arxiv.org/abs/2412.15208",
                 "id": 881100462,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-13T06:26:21Z",
+                "open_issues": 26,
                 "owner": "taco-group",
                 "repo": "OpenEMMA",
-                "stars": 951
+                "stars": 951,
+                "topics": [
+                  "algorithms",
+                  "artificial-intelligence",
+                  "autonomous-car",
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "autonomy",
+                  "emma",
+                  "generative-ai",
+                  "large-lang",
+                  "machine-learning",
+                  "mllm",
+                  "networking",
+                  "open-emma",
+                  "perception",
+                  "transportation"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -901,12 +1307,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CoRL 2025",
+                "homepage": null,
                 "id": 983960665,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-20T07:48:16Z",
+                "open_issues": 3,
                 "owner": "Liuxueyi",
                 "repo": "ReasonPlan",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -917,12 +1328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 794472590,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-03T02:40:04Z",
+                "open_issues": 84,
                 "owner": "NVlabs",
                 "repo": "OmniDrive",
-                "stars": 637
+                "stars": 637,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -933,12 +1349,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives",
+                "homepage": "https://drive-bench.github.io",
                 "id": 910801731,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-12T00:25:42Z",
+                "open_issues": 12,
                 "owner": "worldbench",
                 "repo": "DriveBench",
-                "stars": 248
+                "stars": 248,
+                "topics": [
+                  "autonomous-driving",
+                  "chatgpt",
+                  "driving-with-language",
+                  "internvl",
+                  "phi-3",
+                  "qwen2-vl",
+                  "vision-language-models"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -949,12 +1378,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2025 spotlight] Official implementation for \"FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving\"",
+                "homepage": "https://miv-xjtu.github.io/FSDrive.github.io",
                 "id": 991088632,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-08T05:08:02Z",
+                "open_issues": 10,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 822
+                "stars": 822,
+                "topics": [
+                  "autonomous-driving",
+                  "cot",
+                  "mllm",
+                  "vla",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -965,12 +1405,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 982498245,
                 "language": "Python",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2025-10-29T15:11:17Z",
+                "open_issues": 37,
                 "owner": "ahydchh",
                 "repo": "Impromptu-VLA",
-                "stars": 423
+                "stars": 423,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -981,12 +1426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official implementation of WiseAD.",
+                "homepage": "https://wyddmw.github.io/WiseAD_demo/",
                 "id": 914817402,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-22T06:16:09Z",
+                "open_issues": 2,
                 "owner": "wyddmw",
                 "repo": "WiseAD",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -997,12 +1447,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official implementation of \"OpenREAD:Reinforced Open-Ended Reasoning for End-to-End Autonomous Driving with LLM-as-Critic\"",
+                "homepage": null,
                 "id": 1098082752,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-11T07:52:58Z",
+                "open_issues": 1,
                 "owner": "wyddmw",
                 "repo": "OpenREAD",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1013,12 +1468,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning",
+                "homepage": "https://arxiv.org/abs/2503.07608",
                 "id": 945406461,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-26T13:10:58Z",
+                "open_issues": 13,
                 "owner": "hustvl",
                 "repo": "AlphaDrive",
-                "stars": 334
+                "stars": 334,
+                "topics": [
+                  "autonomous-driving",
+                  "grpo",
+                  "planning",
+                  "reasoning",
+                  "reinforcement-learning",
+                  "vision-language-model"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1029,12 +1496,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CoReVLA: A Dual-Stage End-to-End Autonomous Driving Framework for Long-Tail Scenarios via Collect-and-Refine",
+                "homepage": null,
                 "id": 1027522035,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-02-02T05:29:32Z",
+                "open_issues": 1,
                 "owner": "FanGShiYuu",
                 "repo": "CoReVLA",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1045,12 +1517,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving",
+                "homepage": null,
                 "id": 1105875986,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-02-01T03:59:10Z",
+                "open_issues": 1,
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Diff",
-                "stars": 298
+                "stars": 298,
+                "topics": [
+                  "autonomous-driving",
+                  "vision-language-action-model",
+                  "vla"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             }
@@ -1068,12 +1549,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] LMDrive: Closed-Loop End-to-End Driving with Large Language Models",
+                "homepage": null,
                 "id": 730773551,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-14T07:29:10Z",
+                "open_issues": 82,
                 "owner": "opendilab",
                 "repo": "LMDrive",
-                "stars": 929
+                "stars": 929,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1084,12 +1570,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] Official code of \"ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation\"",
+                "homepage": null,
                 "id": 946347750,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-22T08:10:12Z",
+                "open_issues": 26,
                 "owner": "xiaomi-mlab",
                 "repo": "Orion",
-                "stars": 661
+                "stars": 662,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1100,12 +1591,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2025, Spotlight] SimLingo (CarLLava): Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment",
+                "homepage": "https://www.katrinrenz.de/simlingo/",
                 "id": 947390926,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-25T13:17:14Z",
+                "open_issues": 24,
                 "owner": "RenzKa",
                 "repo": "simlingo",
-                "stars": 447
+                "stars": 447,
+                "topics": [
+                  "autonomous-driving",
+                  "carla",
+                  "vla",
+                  "vlm"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1116,12 +1617,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2025] AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning",
+                "homepage": "https://autovla.github.io/",
                 "id": 1001846586,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-29T09:55:21Z",
+                "open_issues": 2,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 634
+                "stars": 634,
+                "topics": [
+                  "autonomous-driving",
+                  "grpo",
+                  "reinforcement-finetuning",
+                  "vision-language-action"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1132,12 +1643,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] Drive-π0 and DriveMoE on End-to-end Autonomous Driving",
+                "homepage": "https://thinklab-sjtu.github.io/DriveMoE/",
                 "id": 986065173,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-03T07:27:00Z",
+                "open_issues": 2,
                 "owner": "Thinklab-SJTU",
                 "repo": "DriveMoE",
-                "stars": 233
+                "stars": 233,
+                "topics": [
+                  "mixture-of-experts",
+                  "vision-language-action-model"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1148,12 +1667,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1064466354,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-09-26T05:18:45Z",
+                "open_issues": 2,
                 "owner": "pixeli99",
                 "repo": "ReflectDrive",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1164,12 +1688,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2026] OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model",
+                "homepage": "https://drivevla.github.io/",
                 "id": 950748237,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-16T08:36:33Z",
+                "open_issues": 14,
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
-                "stars": 795
+                "stars": 795,
+                "topics": [
+                  "autonomous-driving",
+                  "end-to-end-autonomous-driving",
+                  "vision-language-action-model"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1180,12 +1713,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving",
+                "homepage": null,
                 "id": 1105876193,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-13T00:55:10Z",
+                "open_issues": 1,
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Flow",
-                "stars": 360
+                "stars": 360,
+                "topics": [
+                  "autonoumous-driving",
+                  "vision-language-action-model",
+                  "vla"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1196,12 +1738,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2026] ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving & [CVPR2025] SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving",
+                "homepage": "https://pqh22.github.io/projects/ColaVLA/index.html",
                 "id": 1124188654,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-26T06:35:00Z",
+                "open_issues": 3,
                 "owner": "pqh22",
                 "repo": "ColaVLA",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "autonomous-driving",
+                  "deep-learning",
+                  "trajectory-planning",
+                  "vision-language-action-model",
+                  "vision-language-model"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             }
@@ -1219,12 +1772,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2024] Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving",
+                "homepage": "https://pjlab-adg.github.io/LeapAD/",
                 "id": 804757244,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-18T13:02:58Z",
+                "open_issues": 4,
                 "owner": "PJLab-ADG",
                 "repo": "LeapAD",
-                "stars": 149
+                "stars": 149,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1235,12 +1793,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IJCV 2026] Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving",
+                "homepage": "https://arxiv.org/abs/2410.22313",
                 "id": 880261218,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-12T02:07:01Z",
+                "open_issues": 29,
                 "owner": "hustvl",
                 "repo": "Senna",
-                "stars": 553
+                "stars": 554,
+                "topics": [
+                  "autonomous-driving",
+                  "end-to-end",
+                  "vision-language-action-model"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1251,12 +1818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IROS'25] Dual-Layer Planning for Reasoning in Autonomous Driving",
+                "homepage": "https://dualad.github.io/",
                 "id": 880343479,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-15T19:41:40Z",
+                "open_issues": 0,
                 "owner": "TUM-AVS",
                 "repo": "DualAD",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             }
@@ -1274,12 +1846,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2025] Official Implementation of DINO-Foresight: Looking into the Future with DINO",
+                "homepage": "https://neurips.cc/virtual/2025/loc/san-diego/poster/116713",
                 "id": 904606333,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-26T15:15:25Z",
+                "open_issues": 0,
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
-                "stars": 171
+                "stars": 171,
+                "topics": [
+                  "autonomous-driving",
+                  "future-prediction",
+                  "world-model"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1290,12 +1871,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2026] ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving",
+                "homepage": null,
                 "id": 996860888,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T06:57:50Z",
+                "open_issues": 14,
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
-                "stars": 595
+                "stars": 595,
+                "topics": [
+                  "autonomous-driving",
+                  "diffusion-policy",
+                  "end-to-end-a",
+                  "navsim",
+                  "reinforcement-learning",
+                  "vision-language-action",
+                  "vision-language-models"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1306,12 +1900,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving",
+                "homepage": null,
                 "id": 940508901,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-01T12:29:44Z",
+                "open_issues": 2,
                 "owner": "ruiqi-song",
                 "repo": "InsightDrive",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1322,12 +1921,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1001882466,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-15T05:46:25Z",
+                "open_issues": 1,
                 "owner": "Rex-sys-hk",
                 "repo": "NetRoller",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             }
@@ -1351,12 +1955,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolkit of BDD100K Dataset for Heterogeneous Multitask Learning - CVPR 2020 Oral Paper",
+                "homepage": "https://www.bdd100k.com",
                 "id": 293960101,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-03-09T10:30:02Z",
+                "open_issues": 46,
                 "owner": "bdd100k",
                 "repo": "bdd100k",
-                "stars": 570
+                "stars": 570,
+                "topics": [
+                  "dataset",
+                  "detection",
+                  "segmentation",
+                  "tracking",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1367,12 +1982,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Waymo Open Dataset",
+                "homepage": "https://www.waymo.com/open",
                 "id": 191796209,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-08T22:00:08Z",
+                "open_issues": 463,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3400
+                "stars": 3400,
+                "topics": [
+                  "autonomous-driving",
+                  "dataset"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1383,12 +2006,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The devkit of the nuPlan dataset.",
+                "homepage": "https://www.nuplan.org",
                 "id": 371305005,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-27T05:24:55Z",
+                "open_issues": 100,
                 "owner": "motional",
                 "repo": "nuplan-devkit",
-                "stars": 1028
+                "stars": 1029,
+                "topics": [
+                  "autonomous-driving",
+                  "machine-learning",
+                  "planning",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1399,12 +2032,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Argoverse 2: Next generation datasets for self-driving perception and forecasting.",
+                "homepage": "https://argoverse.github.io/user-guide/",
                 "id": 465837586,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-19T05:33:57Z",
+                "open_issues": 30,
                 "owner": "argoverse",
                 "repo": "av2-api",
-                "stars": 414
+                "stars": 414,
+                "topics": [
+                  "3d-object-detection",
+                  "argoverse",
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "av",
+                  "av2",
+                  "motion-forecasting"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1415,12 +2061,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2024 Datasets and Benchmarks Track] Closed-Loop E2E-AD Benchmark Enhanced by World Model RL Expert",
+                "homepage": null,
                 "id": 790577325,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-11T04:01:59Z",
+                "open_issues": 57,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1927
+                "stars": 1929,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1431,12 +2082,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TPAMI 2025] Benchmarking and Improving Bird's Eye View Perception Robustness in Autonomous Driving",
+                "homepage": "https://daniel-xsy.github.io/robobev/",
                 "id": 578925523,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-06T11:03:02Z",
+                "open_issues": 6,
                 "owner": "worldbench",
                 "repo": "RoboBEV",
-                "stars": 425
+                "stars": 425,
+                "topics": [
+                  "3d-detection",
+                  "autonomous-driving",
+                  "bird-eye-view",
+                  "ood-generalization"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1447,12 +2108,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Waymo Open Dataset",
+                "homepage": "https://www.waymo.com/open",
                 "id": 191796209,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-08T22:00:08Z",
+                "open_issues": 463,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3400
+                "stars": 3400,
+                "topics": [
+                  "autonomous-driving",
+                  "dataset"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             }
@@ -1470,12 +2139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Berkeley Deep Drive-X (eXplanation) dataset",
+                "homepage": null,
                 "id": 166464394,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2019-01-18T22:08:40Z",
+                "open_issues": 3,
                 "owner": "JinkyuKimUCB",
                 "repo": "BDD-X-dataset",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1486,12 +2160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Talk2Car-Trajectory repo",
+                "homepage": null,
                 "id": 586591971,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-12-13T22:22:57Z",
+                "open_issues": 1,
                 "owner": "ThierryDeruyttere",
                 "repo": "Talk2Car-Trajectory",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1502,12 +2181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code for DOROTHIE: Spoken Dialogue for Handling Unexpected Situations in Interactive Autonomous Driving Agents (Findings of EMNLP 2022)",
+                "homepage": null,
                 "id": 557439578,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-24T03:43:35Z",
+                "open_issues": 0,
                 "owner": "sled-group",
                 "repo": "DOROTHIE",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1518,12 +2202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 731651291,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-12-25T15:52:33Z",
+                "open_issues": 5,
                 "owner": "OpenGVLab",
                 "repo": "DriveMLM",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1534,12 +2223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] LMDrive: Closed-Loop End-to-End Driving with Large Language Models",
+                "homepage": null,
                 "id": 730773551,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-14T07:29:10Z",
+                "open_issues": 82,
                 "owner": "opendilab",
                 "repo": "LMDrive",
-                "stars": 929
+                "stars": 929,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1550,12 +2244,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024 Oral] DriveLM: Driving with Graph Visual Question Answering",
+                "homepage": "https://opendrivelab.com/DriveLM/",
                 "id": 676089005,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-02T05:29:49Z",
+                "open_issues": 46,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1338
+                "stars": 1339,
+                "topics": [
+                  "autonomous-driving",
+                  "chain-of-thought",
+                  "graph-of-thoughts",
+                  "large-language-models",
+                  "llm",
+                  "prompt-engineering",
+                  "prompting",
+                  "tree-of-thoughts",
+                  "vision-language"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1566,12 +2275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 675565871,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-20T07:28:06Z",
+                "open_issues": 6,
                 "owner": "sungyeonparkk",
                 "repo": "vision-assistant-for-driving",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1582,12 +2296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 734176413,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-12T02:28:18Z",
+                "open_issues": 3,
                 "owner": "xmed-lab",
                 "repo": "NuInstruct",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1598,12 +2317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2025] Official Github Repo for WOMD-Reasoning Dataset",
+                "homepage": null,
                 "id": 812516316,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-27T21:09:45Z",
+                "open_issues": 1,
                 "owner": "yhli123",
                 "repo": "WOMD-Reasoning",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1614,12 +2338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving",
+                "homepage": null,
                 "id": 727513318,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-01T15:26:18Z",
+                "open_issues": 0,
                 "owner": "fudan-zvg",
                 "repo": "Reason2Drive",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1630,12 +2359,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives",
+                "homepage": "https://drive-bench.github.io",
                 "id": 910801731,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-12T00:25:42Z",
+                "open_issues": 12,
                 "owner": "worldbench",
                 "repo": "DriveBench",
-                "stars": 248
+                "stars": 248,
+                "topics": [
+                  "autonomous-driving",
+                  "chatgpt",
+                  "driving-with-language",
+                  "internvl",
+                  "phi-3",
+                  "qwen2-vl",
+                  "vision-language-models"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1646,12 +2388,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning",
+                "homepage": "https://arxiv.org/abs/2503.07608",
                 "id": 945406461,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-26T13:10:58Z",
+                "open_issues": 13,
                 "owner": "hustvl",
                 "repo": "AlphaDrive",
-                "stars": 334
+                "stars": 334,
+                "topics": [
+                  "autonomous-driving",
+                  "grpo",
+                  "planning",
+                  "reasoning",
+                  "reinforcement-learning",
+                  "vision-language-model"
+                ]
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1662,12 +2416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 794472590,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-03T02:40:04Z",
+                "open_issues": 84,
                 "owner": "NVlabs",
                 "repo": "OmniDrive",
-                "stars": 637
+                "stars": 637,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             },
@@ -1678,12 +2437,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 982498245,
                 "language": "Python",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2025-10-29T15:11:17Z",
+                "open_issues": 37,
                 "owner": "ahydchh",
                 "repo": "Impromptu-VLA",
-                "stars": 423
+                "stars": 423,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
             }
@@ -1697,15 +2461,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:17:23.797Z",
+    "last_updated": "2026-08-29T03:50:46.675Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
+      "homepage": "https://worldbench.github.io/vla4ad",
       "id": 1052088443,
       "language": "HTML",
+      "license": "MIT",
       "last_commit": "2026-08-21T04:32:52Z",
+      "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-vla-for-ad",
-      "stars": 467
+      "stars": 467,
+      "topics": [
+        "3d",
+        "autonomous-driving",
+        "awesome-list",
+        "embodied-ai",
+        "large-language-models",
+        "llm",
+        "multi-modal",
+        "multimodal-large-language-models",
+        "self-driving",
+        "vision-language",
+        "vision-language-action",
+        "vision-language-models",
+        "vla",
+        "vlm"
+      ]
     },
     "original_repository_sha": "44528e9300a2df74a8dbd45a35316720f37e1349",
     "enhanced_repository": "enhansome/enhansome-vla-for-ad",
