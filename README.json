@@ -280,7 +280,7 @@
                 "open_issues": 1,
                 "owner": "OpenDriveLab",
                 "repo": "SimScale",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "autonomous-driving",
                   "co-training",
@@ -1623,7 +1623,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-29T09:55:21Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
                 "stars": 634,
@@ -1697,7 +1697,7 @@
                 "open_issues": 14,
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
-                "stars": 795,
+                "stars": 796,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end-autonomous-driving",
@@ -1747,7 +1747,7 @@
                 "open_issues": 3,
                 "owner": "pqh22",
                 "repo": "ColaVLA",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "autonomous-driving",
                   "deep-learning",
@@ -1877,7 +1877,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-18T06:57:50Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
                 "stars": 595,
@@ -2041,7 +2041,7 @@
                 "open_issues": 30,
                 "owner": "argoverse",
                 "repo": "av2-api",
-                "stars": 414,
+                "stars": 413,
                 "topics": [
                   "3d-object-detection",
                   "argoverse",
@@ -2070,7 +2070,7 @@
                 "open_issues": 57,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1929,
+                "stars": 1930,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:47:13.798Z",
+    "last_updated": "2026-08-30T00:38:48.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
