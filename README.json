@@ -212,7 +212,7 @@
                 "open_issues": 1,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1599,
+                "stars": 1598,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -338,7 +338,7 @@
                 "open_issues": 126,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4739,
+                "stars": 4743,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-driving-framework",
@@ -930,7 +930,7 @@
                 "open_issues": 5,
                 "owner": "Ma-Zhuang",
                 "repo": "OmniNWM",
-                "stars": 368,
+                "stars": 369,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -951,7 +951,7 @@
                 "open_issues": 5,
                 "owner": "MSunDYY",
                 "repo": "SparseOccVLA",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "autonomous-driving",
                   "occupancy",
@@ -1004,7 +1004,7 @@
                 "open_issues": 22,
                 "owner": "BraveGroup",
                 "repo": "LAW",
-                "stars": 387,
+                "stars": 388,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1174,7 +1174,7 @@
                 "open_issues": 2,
                 "owner": "sled-group",
                 "repo": "driVLMe",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1387,7 +1387,7 @@
                 "open_issues": 10,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 822,
+                "stars": 823,
                 "topics": [
                   "autonomous-driving",
                   "cot",
@@ -1626,7 +1626,7 @@
                 "open_issues": 3,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 634,
+                "stars": 635,
                 "topics": [
                   "autonomous-driving",
                   "grpo",
@@ -1991,7 +1991,7 @@
                 "open_issues": 463,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3400,
+                "stars": 3401,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2117,7 +2117,7 @@
                 "open_issues": 463,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3400,
+                "stars": 3401,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:38:48.450Z",
+    "last_updated": "2026-08-31T00:48:25.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
