@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "dotchen",
                 "repo": "LearningByCheating",
-                "stars": 339,
+                "stars": 338,
                 "topics": [
                   "autonomous-vehicles",
                   "carla",
@@ -280,7 +280,7 @@
                 "open_issues": 1,
                 "owner": "OpenDriveLab",
                 "repo": "SimScale",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "autonomous-driving",
                   "co-training",
@@ -314,7 +314,7 @@
                 "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "ST-P3",
-                "stars": 440,
+                "stars": 441,
                 "topics": [
                   "end-to-end-autonomous-driving",
                   "perception-prediction-planning"
@@ -338,7 +338,7 @@
                 "open_issues": 127,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4747,
+                "stars": 4748,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-driving-framework",
@@ -502,7 +502,7 @@
                 "open_issues": 35,
                 "owner": "swc-17",
                 "repo": "SparseDrive",
-                "stars": 997,
+                "stars": 998,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -779,7 +779,7 @@
                 "open_issues": 5,
                 "owner": "YvanYin",
                 "repo": "DrivingWorld",
-                "stars": 247,
+                "stars": 246,
                 "topics": [
                   "autonomous-driving",
                   "driving-world-model",
@@ -1143,7 +1143,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1340,
+                "stars": 1341,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -1387,7 +1387,7 @@
                 "open_issues": 10,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 830,
+                "stars": 831,
                 "topics": [
                   "autonomous-driving",
                   "cot",
@@ -1526,7 +1526,7 @@
                 "open_issues": 1,
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Diff",
-                "stars": 299,
+                "stars": 300,
                 "topics": [
                   "autonomous-driving",
                   "vision-language-action-model",
@@ -1991,7 +1991,7 @@
                 "open_issues": 463,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3406,
+                "stars": 3407,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2091,7 +2091,7 @@
                 "open_issues": 6,
                 "owner": "worldbench",
                 "repo": "RoboBEV",
-                "stars": 424,
+                "stars": 425,
                 "topics": [
                   "3d-detection",
                   "autonomous-driving",
@@ -2117,7 +2117,7 @@
                 "open_issues": 463,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3406,
+                "stars": 3407,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2253,7 +2253,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1340,
+                "stars": 1341,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T00:21:12.763Z",
+    "last_updated": "2026-09-06T00:11:19.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
@@ -2473,7 +2473,7 @@
       "open_issues": 1,
       "owner": "worldbench",
       "repo": "awesome-vla-for-ad",
-      "stars": 468,
+      "stars": 469,
       "topics": [
         "3d",
         "autonomous-driving",
