@@ -369,7 +369,7 @@
                 "open_issues": 78,
                 "owner": "hustvl",
                 "repo": "VAD",
-                "stars": 1367,
+                "stars": 1368,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end"
@@ -544,7 +544,7 @@
                 "open_issues": 17,
                 "owner": "YvanYin",
                 "repo": "GoalFlow",
-                "stars": 416,
+                "stars": 417,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end-driving",
@@ -834,7 +834,7 @@
                 "open_issues": 1,
                 "owner": "valeoai",
                 "repo": "VideoActionModel",
-                "stars": 165,
+                "stars": 166,
                 "topics": [
                   "autonomous-driving",
                   "mobile-robots",
@@ -1358,7 +1358,7 @@
                 "open_issues": 12,
                 "owner": "worldbench",
                 "repo": "DriveBench",
-                "stars": 248,
+                "stars": 249,
                 "topics": [
                   "autonomous-driving",
                   "chatgpt",
@@ -1722,7 +1722,7 @@
                 "open_issues": 1,
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Flow",
-                "stars": 362,
+                "stars": 363,
                 "topics": [
                   "autonoumous-driving",
                   "vision-language-action-model",
@@ -1991,7 +1991,7 @@
                 "open_issues": 463,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3407,
+                "stars": 3408,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2117,7 +2117,7 @@
                 "open_issues": 463,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3407,
+                "stars": 3408,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2368,7 +2368,7 @@
                 "open_issues": 12,
                 "owner": "worldbench",
                 "repo": "DriveBench",
-                "stars": 248,
+                "stars": 249,
                 "topics": [
                   "autonomous-driving",
                   "chatgpt",
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T00:11:19.900Z",
+    "last_updated": "2026-09-07T00:18:48.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
@@ -2473,7 +2473,7 @@
       "open_issues": 1,
       "owner": "worldbench",
       "repo": "awesome-vla-for-ad",
-      "stars": 469,
+      "stars": 470,
       "topics": [
         "3d",
         "autonomous-driving",
