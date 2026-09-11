@@ -238,7 +238,7 @@
                 "open_issues": 4,
                 "owner": "NVlabs",
                 "repo": "BEV-Planner",
-                "stars": 259,
+                "stars": 260,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -338,7 +338,7 @@
                 "open_issues": 126,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4750,
+                "stars": 4753,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-driving-framework",
@@ -369,7 +369,7 @@
                 "open_issues": 78,
                 "owner": "hustvl",
                 "repo": "VAD",
-                "stars": 1370,
+                "stars": 1371,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end"
@@ -654,7 +654,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T17:35:22Z",
-                "open_issues": 11,
+                "open_issues": 6,
                 "owner": "valeoai",
                 "repo": "DrivoR",
                 "stars": 271,
@@ -1046,7 +1046,7 @@
                 "open_issues": 4,
                 "owner": "LogosRoboticsGroup",
                 "repo": "SeerDrive",
-                "stars": 76,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1387,7 +1387,7 @@
                 "open_issues": 10,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 831,
+                "stars": 833,
                 "topics": [
                   "autonomous-driving",
                   "cot",
@@ -1414,7 +1414,7 @@
                 "open_issues": 37,
                 "owner": "ahydchh",
                 "repo": "Impromptu-VLA",
-                "stars": 425,
+                "stars": 426,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1600,7 +1600,7 @@
                 "open_issues": 24,
                 "owner": "RenzKa",
                 "repo": "simlingo",
-                "stars": 448,
+                "stars": 449,
                 "topics": [
                   "autonomous-driving",
                   "carla",
@@ -1626,7 +1626,7 @@
                 "open_issues": 3,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 641,
+                "stars": 642,
                 "topics": [
                   "autonomous-driving",
                   "grpo",
@@ -1880,7 +1880,7 @@
                 "open_issues": 16,
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
-                "stars": 602,
+                "stars": 604,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-policy",
@@ -1964,7 +1964,7 @@
                 "open_issues": 46,
                 "owner": "bdd100k",
                 "repo": "bdd100k",
-                "stars": 570,
+                "stars": 569,
                 "topics": [
                   "dataset",
                   "detection",
@@ -1991,7 +1991,7 @@
                 "open_issues": 464,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3408,
+                "stars": 3407,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2015,7 +2015,7 @@
                 "open_issues": 100,
                 "owner": "motional",
                 "repo": "nuplan-devkit",
-                "stars": 1033,
+                "stars": 1034,
                 "topics": [
                   "autonomous-driving",
                   "machine-learning",
@@ -2117,7 +2117,7 @@
                 "open_issues": 464,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3408,
+                "stars": 3407,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2446,7 +2446,7 @@
                 "open_issues": 37,
                 "owner": "ahydchh",
                 "repo": "Impromptu-VLA",
-                "stars": 425,
+                "stars": 426,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:32:46.385Z",
+    "last_updated": "2026-09-11T00:30:08.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
