@@ -369,7 +369,7 @@
                 "open_issues": 78,
                 "owner": "hustvl",
                 "repo": "VAD",
-                "stars": 1371,
+                "stars": 1372,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end"
@@ -502,7 +502,7 @@
                 "open_issues": 35,
                 "owner": "swc-17",
                 "repo": "SparseDrive",
-                "stars": 999,
+                "stars": 1000,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -523,7 +523,7 @@
                 "open_issues": 29,
                 "owner": "hustvl",
                 "repo": "DiffusionDrive",
-                "stars": 1494,
+                "stars": 1495,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -615,7 +615,7 @@
                 "open_issues": 20,
                 "owner": "hustvl",
                 "repo": "DiffusionDriveV2",
-                "stars": 368,
+                "stars": 369,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -779,7 +779,7 @@
                 "open_issues": 5,
                 "owner": "YvanYin",
                 "repo": "DrivingWorld",
-                "stars": 246,
+                "stars": 247,
                 "topics": [
                   "autonomous-driving",
                   "driving-world-model",
@@ -888,7 +888,7 @@
                 "open_issues": 25,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 584,
+                "stars": 585,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1435,7 +1435,7 @@
                 "open_issues": 2,
                 "owner": "wyddmw",
                 "repo": "WiseAD",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1558,7 +1558,7 @@
                 "open_issues": 82,
                 "owner": "opendilab",
                 "repo": "LMDrive",
-                "stars": 930,
+                "stars": 931,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1579,7 +1579,7 @@
                 "open_issues": 26,
                 "owner": "xiaomi-mlab",
                 "repo": "Orion",
-                "stars": 663,
+                "stars": 664,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1626,7 +1626,7 @@
                 "open_issues": 3,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 643,
+                "stars": 645,
                 "topics": [
                   "autonomous-driving",
                   "grpo",
@@ -1697,7 +1697,7 @@
                 "open_issues": 14,
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
-                "stars": 801,
+                "stars": 802,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end-autonomous-driving",
@@ -1880,7 +1880,7 @@
                 "open_issues": 16,
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
-                "stars": 604,
+                "stars": 605,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-policy",
@@ -2067,10 +2067,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-11T04:01:59Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1939,
+                "stars": 1940,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2148,7 +2148,7 @@
                 "open_issues": 3,
                 "owner": "JinkyuKimUCB",
                 "repo": "BDD-X-dataset",
-                "stars": 134,
+                "stars": 135,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2232,7 +2232,7 @@
                 "open_issues": 82,
                 "owner": "opendilab",
                 "repo": "LMDrive",
-                "stars": 930,
+                "stars": 931,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:35:23.676Z",
+    "last_updated": "2026-09-13T00:15:07.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
