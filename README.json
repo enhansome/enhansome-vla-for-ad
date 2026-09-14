@@ -132,7 +132,7 @@
                 "open_issues": 28,
                 "owner": "OpenDriveLab",
                 "repo": "TCP",
-                "stars": 488,
+                "stars": 489,
                 "topics": [
                   "carla-driving-simulator",
                   "end-to-end-autonomous-driving"
@@ -212,7 +212,7 @@
                 "open_issues": 1,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1599,
+                "stars": 1600,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -544,7 +544,7 @@
                 "open_issues": 17,
                 "owner": "YvanYin",
                 "repo": "GoalFlow",
-                "stars": 419,
+                "stars": 420,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end-driving",
@@ -808,7 +808,7 @@
                 "open_issues": 6,
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 388,
+                "stars": 389,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -983,7 +983,7 @@
                 "open_issues": 18,
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
-                "stars": 264,
+                "stars": 265,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1722,7 +1722,7 @@
                 "open_issues": 1,
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Flow",
-                "stars": 365,
+                "stars": 366,
                 "topics": [
                   "autonoumous-driving",
                   "vision-language-action-model",
@@ -1880,7 +1880,7 @@
                 "open_issues": 16,
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
-                "stars": 605,
+                "stars": 606,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-policy",
@@ -2015,7 +2015,7 @@
                 "open_issues": 100,
                 "owner": "motional",
                 "repo": "nuplan-devkit",
-                "stars": 1034,
+                "stars": 1035,
                 "topics": [
                   "autonomous-driving",
                   "machine-learning",
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T00:15:07.524Z",
+    "last_updated": "2026-09-14T00:22:46.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
