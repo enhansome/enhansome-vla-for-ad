@@ -280,7 +280,7 @@
                 "open_issues": 1,
                 "owner": "OpenDriveLab",
                 "repo": "SimScale",
-                "stars": 324,
+                "stars": 325,
                 "topics": [
                   "autonomous-driving",
                   "co-training",
@@ -338,7 +338,7 @@
                 "open_issues": 127,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4759,
+                "stars": 4761,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-driving-framework",
@@ -706,7 +706,7 @@
                 "open_issues": 24,
                 "owner": "JeffWang987",
                 "repo": "DriveDreamer",
-                "stars": 594,
+                "stars": 595,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1337,7 +1337,7 @@
                 "open_issues": 84,
                 "owner": "NVlabs",
                 "repo": "OmniDrive",
-                "stars": 643,
+                "stars": 644,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1626,7 +1626,7 @@
                 "open_issues": 4,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 649,
+                "stars": 650,
                 "topics": [
                   "autonomous-driving",
                   "grpo",
@@ -1991,7 +1991,7 @@
                 "open_issues": 464,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3412,
+                "stars": 3414,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2117,7 +2117,7 @@
                 "open_issues": 464,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3412,
+                "stars": 3414,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2425,7 +2425,7 @@
                 "open_issues": 84,
                 "owner": "NVlabs",
                 "repo": "OmniDrive",
-                "stars": 643,
+                "stars": 644,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T00:35:55.655Z",
+    "last_updated": "2026-09-20T00:21:02.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
