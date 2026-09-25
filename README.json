@@ -338,7 +338,7 @@
                 "open_issues": 127,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4765,
+                "stars": 4767,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-driving-framework",
@@ -636,7 +636,7 @@
                 "open_issues": 4,
                 "owner": "ZebinX",
                 "repo": "Mimir-Uncertainty-Driving",
-                "stars": 21,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -678,7 +678,7 @@
                 "open_issues": 1,
                 "owner": "dmholtz",
                 "repo": "bevad",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -727,7 +727,7 @@
                 "open_issues": 11,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 805,
+                "stars": 806,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -779,7 +779,7 @@
                 "open_issues": 5,
                 "owner": "YvanYin",
                 "repo": "DrivingWorld",
-                "stars": 246,
+                "stars": 245,
                 "topics": [
                   "autonomous-driving",
                   "driving-world-model",
@@ -864,6 +864,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DriveVA",
+              "description": "DriveVA: Video Action Models are Zero-Shot Drivers ECCV 2026 -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2026] Official code of \"DriveVA: Video action models are zero-shot drivers\"",
+                "homepage": null,
+                "id": 1284776948,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-21T16:23:28Z",
+                "open_issues": 2,
+                "owner": "xiaomi-mlab",
+                "repo": "DriveVA",
+                "stars": 61,
+                "topics": []
+              },
+              "first_seen": "2026-09-25T00:45:56.476Z"
             }
           ],
           "description": ":timer_clock: In chronological order, from the earliest to the latest.",
@@ -930,7 +951,7 @@
                 "open_issues": 5,
                 "owner": "Ma-Zhuang",
                 "repo": "OmniNWM",
-                "stars": 377,
+                "stars": 376,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1067,7 +1088,7 @@
                 "open_issues": 4,
                 "owner": "linhanwang",
                 "repo": "Drive-JEPA",
-                "stars": 194,
+                "stars": 195,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1358,7 +1379,7 @@
                 "open_issues": 12,
                 "owner": "worldbench",
                 "repo": "DriveBench",
-                "stars": 250,
+                "stars": 251,
                 "topics": [
                   "autonomous-driving",
                   "chatgpt",
@@ -1626,7 +1647,7 @@
                 "open_issues": 6,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 655,
+                "stars": 656,
                 "topics": [
                   "autonomous-driving",
                   "grpo",
@@ -1697,7 +1718,7 @@
                 "open_issues": 14,
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
-                "stars": 812,
+                "stars": 814,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end-autonomous-driving",
@@ -1722,7 +1743,7 @@
                 "open_issues": 0,
                 "owner": "fudan-generative-vision",
                 "repo": "WAM-Flow",
-                "stars": 367,
+                "stars": 368,
                 "topics": [
                   "autonoumous-driving",
                   "vision-language-action-model",
@@ -1855,7 +1876,7 @@
                 "open_issues": 0,
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
-                "stars": 176,
+                "stars": 177,
                 "topics": [
                   "autonomous-driving",
                   "future-prediction",
@@ -2070,7 +2091,7 @@
                 "open_issues": 59,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1947,
+                "stars": 1949,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2368,7 +2389,7 @@
                 "open_issues": 12,
                 "owner": "worldbench",
                 "repo": "DriveBench",
-                "stars": 250,
+                "stars": 251,
                 "topics": [
                   "autonomous-driving",
                   "chatgpt",
@@ -2461,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T00:51:04.331Z",
+    "last_updated": "2026-09-25T00:45:56.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
@@ -2469,8 +2490,8 @@
       "id": 1052088443,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2026-09-01T01:25:21Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-24T04:26:13Z",
+      "open_issues": 1,
       "owner": "worldbench",
       "repo": "awesome-vla-for-ad",
       "stars": 481,
@@ -2491,7 +2512,7 @@
         "vlm"
       ]
     },
-    "original_repository_sha": "44528e9300a2df74a8dbd45a35316720f37e1349",
+    "original_repository_sha": "cabefde1361b7c06e352108a65542edd1516be2a",
     "enhanced_repository": "enhansome/enhansome-vla-for-ad",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome VLA for Autonomous Driving with stars"
