@@ -280,7 +280,7 @@
                 "open_issues": 1,
                 "owner": "OpenDriveLab",
                 "repo": "SimScale",
-                "stars": 327,
+                "stars": 328,
                 "topics": [
                   "autonomous-driving",
                   "co-training",
@@ -338,7 +338,7 @@
                 "open_issues": 127,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4767,
+                "stars": 4769,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-driving-framework",
@@ -523,7 +523,7 @@
                 "open_issues": 31,
                 "owner": "hustvl",
                 "repo": "DiffusionDrive",
-                "stars": 1503,
+                "stars": 1504,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -851,7 +851,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "[NeurIPS2026] Implementation of Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation",
+                "description": "[NeurIPS 2026] Implementation of Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation",
                 "homepage": null,
                 "id": 1181536271,
                 "language": "Python",
@@ -1164,7 +1164,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1346,
+                "stars": 1347,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -1600,7 +1600,7 @@
                 "open_issues": 26,
                 "owner": "xiaomi-mlab",
                 "repo": "Orion",
-                "stars": 668,
+                "stars": 667,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1647,7 +1647,7 @@
                 "open_issues": 6,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 656,
+                "stars": 657,
                 "topics": [
                   "autonomous-driving",
                   "grpo",
@@ -1718,7 +1718,7 @@
                 "open_issues": 14,
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
-                "stars": 814,
+                "stars": 815,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end-autonomous-driving",
@@ -1897,11 +1897,11 @@
                 "id": 996860888,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T19:38:35Z",
+                "last_commit": "2026-09-26T19:06:17Z",
                 "open_issues": 18,
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
-                "stars": 612,
+                "stars": 613,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-policy",
@@ -1985,7 +1985,7 @@
                 "open_issues": 46,
                 "owner": "bdd100k",
                 "repo": "bdd100k",
-                "stars": 573,
+                "stars": 574,
                 "topics": [
                   "dataset",
                   "detection",
@@ -2274,7 +2274,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1346,
+                "stars": 1347,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T00:50:41.006Z",
+    "last_updated": "2026-09-27T00:50:30.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
