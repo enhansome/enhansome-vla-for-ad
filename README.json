@@ -212,7 +212,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1605,
+                "stars": 1606,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -338,7 +338,7 @@
                 "open_issues": 127,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4773,
+                "stars": 4774,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-driving-framework",
@@ -724,7 +724,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-02-27T12:40:42Z",
-                "open_issues": 11,
+                "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
                 "stars": 807,
@@ -860,7 +860,7 @@
                 "open_issues": 0,
                 "owner": "TabGuigui",
                 "repo": "WorldDrive",
-                "stars": 82,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -930,7 +930,7 @@
                 "open_issues": 5,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1647,7 +1647,7 @@
                 "open_issues": 6,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 657,
+                "stars": 659,
                 "topics": [
                   "autonomous-driving",
                   "grpo",
@@ -1985,7 +1985,7 @@
                 "open_issues": 46,
                 "owner": "bdd100k",
                 "repo": "bdd100k",
-                "stars": 574,
+                "stars": 575,
                 "topics": [
                   "dataset",
                   "detection",
@@ -2036,7 +2036,7 @@
                 "open_issues": 100,
                 "owner": "motional",
                 "repo": "nuplan-devkit",
-                "stars": 1035,
+                "stars": 1036,
                 "topics": [
                   "autonomous-driving",
                   "machine-learning",
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T01:30:14.532Z",
+    "last_updated": "2026-10-01T01:31:11.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
@@ -2494,7 +2494,7 @@
       "open_issues": 1,
       "owner": "worldbench",
       "repo": "awesome-vla-for-ad",
-      "stars": 482,
+      "stars": 483,
       "topics": [
         "3d",
         "autonomous-driving",
