@@ -212,7 +212,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1606,
+                "stars": 1607,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -972,7 +972,7 @@
                 "open_issues": 5,
                 "owner": "MSunDYY",
                 "repo": "SparseOccVLA",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "autonomous-driving",
                   "occupancy",
@@ -1647,7 +1647,7 @@
                 "open_issues": 6,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 659,
+                "stars": 661,
                 "topics": [
                   "autonomous-driving",
                   "grpo",
@@ -1768,7 +1768,7 @@
                 "open_issues": 3,
                 "owner": "pqh22",
                 "repo": "ColaVLA",
-                "stars": 66,
+                "stars": 67,
                 "topics": [
                   "autonomous-driving",
                   "deep-learning",
@@ -1897,7 +1897,7 @@
                 "id": 996860888,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T17:44:09Z",
+                "last_commit": "2026-10-01T18:44:23Z",
                 "open_issues": 18,
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:31:11.263Z",
+    "last_updated": "2026-10-02T01:47:59.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
