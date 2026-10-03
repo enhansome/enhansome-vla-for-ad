@@ -102,7 +102,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2022-02-17T18:19:23Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "dotchen",
                 "repo": "WorldOnRails",
                 "stars": 184,
@@ -179,7 +179,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2022-10-13T22:55:32Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "dotchen",
                 "repo": "LAV",
                 "stars": 438,
@@ -280,7 +280,7 @@
                 "open_issues": 1,
                 "owner": "OpenDriveLab",
                 "repo": "SimScale",
-                "stars": 328,
+                "stars": 329,
                 "topics": [
                   "autonomous-driving",
                   "co-training",
@@ -523,7 +523,7 @@
                 "open_issues": 31,
                 "owner": "hustvl",
                 "repo": "DiffusionDrive",
-                "stars": 1506,
+                "stars": 1507,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -675,7 +675,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-25T11:03:05Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "dmholtz",
                 "repo": "bevad",
                 "stars": 34,
@@ -834,7 +834,7 @@
                 "open_issues": 1,
                 "owner": "valeoai",
                 "repo": "VideoActionModel",
-                "stars": 171,
+                "stars": 170,
                 "topics": [
                   "autonomous-driving",
                   "mobile-robots",
@@ -881,7 +881,7 @@
                 "open_issues": 2,
                 "owner": "xiaomi-mlab",
                 "repo": "DriveVA",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-09-25T00:45:56.476Z"
@@ -1405,7 +1405,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-05-08T05:08:02Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
                 "stars": 832,
@@ -1718,7 +1718,7 @@
                 "open_issues": 14,
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
-                "stars": 819,
+                "stars": 820,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end-autonomous-driving",
@@ -1985,7 +1985,7 @@
                 "open_issues": 46,
                 "owner": "bdd100k",
                 "repo": "bdd100k",
-                "stars": 575,
+                "stars": 576,
                 "topics": [
                   "dataset",
                   "detection",
@@ -2036,7 +2036,7 @@
                 "open_issues": 100,
                 "owner": "motional",
                 "repo": "nuplan-devkit",
-                "stars": 1036,
+                "stars": 1038,
                 "topics": [
                   "autonomous-driving",
                   "machine-learning",
@@ -2091,7 +2091,7 @@
                 "open_issues": 59,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1951,
+                "stars": 1952,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:47:59.138Z",
+    "last_updated": "2026-10-03T01:23:42.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
@@ -2494,7 +2494,7 @@
       "open_issues": 1,
       "owner": "worldbench",
       "repo": "awesome-vla-for-ad",
-      "stars": 483,
+      "stars": 484,
       "topics": [
         "3d",
         "autonomous-driving",
