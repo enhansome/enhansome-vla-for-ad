@@ -1,4 +1,4 @@
-[![Awesome Logo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,750 | 🐛 106 | 📅 2026-09-02
+[![Awesome Logo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,802 | 🐛 106 | 📅 2026-09-02
 [![arXiv](https://img.shields.io/badge/arXiv-2512.16760-b31b1b?style=flat-square\&logo=arxiv)](https://arxiv.org/abs/2512.16760)
 ![Visitors](https://komarev.com/ghpvc/?username=worldbench\&repo=awesome-vla4ad\&label=Hello,%20Visitor%20\&color=yellow\&style=social)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/worldbench/awesome-vla4ad/pulls) ⭐ 484 | 🐛 1 | 🌐 HTML | 📅 2026-09-24
