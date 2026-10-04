@@ -280,7 +280,7 @@
                 "open_issues": 1,
                 "owner": "OpenDriveLab",
                 "repo": "SimScale",
-                "stars": 329,
+                "stars": 330,
                 "topics": [
                   "autonomous-driving",
                   "co-training",
@@ -369,7 +369,7 @@
                 "open_issues": 78,
                 "owner": "hustvl",
                 "repo": "VAD",
-                "stars": 1377,
+                "stars": 1378,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end"
@@ -657,7 +657,7 @@
                 "open_issues": 6,
                 "owner": "valeoai",
                 "repo": "DrivoR",
-                "stars": 280,
+                "stars": 281,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1901,7 +1901,7 @@
                 "open_issues": 18,
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
-                "stars": 614,
+                "stars": 616,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-policy",
@@ -2091,7 +2091,7 @@
                 "open_issues": 59,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1952,
+                "stars": 1953,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2482,7 +2482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:16:02.992Z",
+    "last_updated": "2026-10-04T01:57:52.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
