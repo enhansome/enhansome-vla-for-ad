@@ -156,7 +156,7 @@
                 "open_issues": 47,
                 "owner": "woven-by-toyota",
                 "repo": "l5kit",
-                "stars": 880,
+                "stars": 881,
                 "topics": [
                   "autonomous-vehicles",
                   "machine-learning",
@@ -280,7 +280,7 @@
                 "open_issues": 1,
                 "owner": "OpenDriveLab",
                 "repo": "SimScale",
-                "stars": 330,
+                "stars": 331,
                 "topics": [
                   "autonomous-driving",
                   "co-training",
@@ -1127,10 +1127,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-29T18:54:06Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "HaoranZhuExplorer",
                 "repo": "AD-E2E-JEPA",
-                "stars": 39,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -1248,7 +1248,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1347,
+                "stars": 1346,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -1900,7 +1900,7 @@
                 "open_issues": 0,
                 "owner": "AhernResearch",
                 "repo": "grava",
-                "stars": 24,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2421,7 +2421,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1347,
+                "stars": 1346,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -2677,7 +2677,7 @@
                 "open_issues": 0,
                 "owner": "PerfectXu88",
                 "repo": "DriveHierarchy",
-                "stars": 22,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2694,7 +2694,7 @@
                 "id": 1136438386,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-05T23:38:46Z",
+                "last_commit": "2026-10-06T04:31:51Z",
                 "open_issues": 0,
                 "owner": "Mi3-Lab",
                 "repo": "doPlan",
@@ -2711,11 +2711,11 @@
               "repo_info": {
                 "archived": false,
                 "description": "Rule-Centric Closed-Loop Evaluation of Traffic-Sign Compliance in Autonomous Driving",
-                "homepage": null,
+                "homepage": "https://emb-ai.github.io/traffic-sign-bench/",
                 "id": 1223800129,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T12:44:20Z",
+                "last_commit": "2026-10-06T09:21:33Z",
                 "open_issues": 0,
                 "owner": "emb-ai",
                 "repo": "traffic-sign-bench",
@@ -2859,7 +2859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:28:51.720Z",
+    "last_updated": "2026-10-06T11:00:14.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
@@ -2871,7 +2871,7 @@
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-vla-for-ad",
-      "stars": 485,
+      "stars": 486,
       "topics": [
         "3d",
         "autonomous-driving",
