@@ -338,7 +338,7 @@
                 "open_issues": 127,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4773,
+                "stars": 4774,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-driving-framework",
@@ -369,7 +369,7 @@
                 "open_issues": 78,
                 "owner": "hustvl",
                 "repo": "VAD",
-                "stars": 1378,
+                "stars": 1380,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end"
@@ -1900,7 +1900,7 @@
                 "open_issues": 0,
                 "owner": "AhernResearch",
                 "repo": "grava",
-                "stars": 28,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2694,7 +2694,7 @@
                 "id": 1136438386,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-06T04:31:51Z",
+                "last_commit": "2026-10-06T22:13:09Z",
                 "open_issues": 0,
                 "owner": "Mi3-Lab",
                 "repo": "doPlan",
@@ -2859,7 +2859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:00:14.090Z",
+    "last_updated": "2026-10-07T01:46:56.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
@@ -2867,7 +2867,7 @@
       "id": 1052088443,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2026-10-04T13:30:10Z",
+      "last_commit": "2026-10-06T23:38:38Z",
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-vla-for-ad",
@@ -2889,7 +2889,7 @@
         "vlm"
       ]
     },
-    "original_repository_sha": "a12c6165a3e0d5a5d2658f7d7a349da3266a1ead",
+    "original_repository_sha": "16687e47659546681f81d14d0a3381cb9e2c0838",
     "enhanced_repository": "enhansome/enhansome-vla-for-ad",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome VLA for Autonomous Driving with stars"
