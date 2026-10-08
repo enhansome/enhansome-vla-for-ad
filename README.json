@@ -369,7 +369,7 @@
                 "open_issues": 78,
                 "owner": "hustvl",
                 "repo": "VAD",
-                "stars": 1380,
+                "stars": 1381,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end"
@@ -727,7 +727,7 @@
                 "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "DriveAGI",
-                "stars": 807,
+                "stars": 808,
                 "topics": [
                   "autonomous-driving",
                   "embodied-ai",
@@ -808,7 +808,7 @@
                 "open_issues": 7,
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 390,
+                "stars": 391,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -1109,7 +1109,7 @@
                 "open_issues": 1,
                 "owner": "AFARI-Research",
                 "repo": "WA-JEPA",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -1384,7 +1384,7 @@
                 "open_issues": 26,
                 "owner": "taco-group",
                 "repo": "OpenEMMA",
-                "stars": 956,
+                "stars": 957,
                 "topics": [
                   "algorithms",
                   "artificial-intelligence",
@@ -1492,7 +1492,7 @@
                 "open_issues": 10,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 832,
+                "stars": 833,
                 "topics": [
                   "autonomous-driving",
                   "cot",
@@ -1879,7 +1879,7 @@
                 "open_issues": 8,
                 "owner": "QwenLM",
                 "repo": "Qwen-Drive-1.0",
-                "stars": 490,
+                "stars": 493,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -1900,7 +1900,7 @@
                 "open_issues": 0,
                 "owner": "AhernResearch",
                 "repo": "grava",
-                "stars": 34,
+                "stars": 50,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2048,7 +2048,7 @@
                 "open_issues": 18,
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
-                "stars": 616,
+                "stars": 617,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-policy",
@@ -2159,7 +2159,7 @@
                 "open_issues": 464,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3420,
+                "stars": 3421,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2285,7 +2285,7 @@
                 "open_issues": 464,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3420,
+                "stars": 3421,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2694,7 +2694,7 @@
                 "id": 1136438386,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-06T22:13:09Z",
+                "last_commit": "2026-10-07T22:34:53Z",
                 "open_issues": 0,
                 "owner": "Mi3-Lab",
                 "repo": "doPlan",
@@ -2859,7 +2859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:46:56.282Z",
+    "last_updated": "2026-10-08T02:14:32.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
@@ -2871,7 +2871,7 @@
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-vla-for-ad",
-      "stars": 486,
+      "stars": 489,
       "topics": [
         "3d",
         "autonomous-driving",
