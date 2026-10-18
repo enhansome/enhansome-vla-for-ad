@@ -338,7 +338,7 @@
                 "open_issues": 127,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4791,
+                "stars": 4792,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-driving-framework",
@@ -636,7 +636,7 @@
                 "open_issues": 6,
                 "owner": "valeoai",
                 "repo": "DrivoR",
-                "stars": 292,
+                "stars": 293,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -850,7 +850,7 @@
                 "open_issues": 8,
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 390,
+                "stars": 391,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -931,7 +931,7 @@
             {
               "node_type": "item",
               "title": "DriveVA",
-              "description": "DriveVA: Video Action Models are Zero-Shot Drivers ECCV 2026 -",
+              "description": "DriveVA: Video Action Models are Zero-Shot Drivers ECCV 2026 - Models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -944,7 +944,7 @@
                 "open_issues": 3,
                 "owner": "xiaomi-mlab",
                 "repo": "DriveVA",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-09-25T00:45:56.476Z"
@@ -1256,7 +1256,7 @@
                 "open_issues": 1,
                 "owner": "jinchan9",
                 "repo": "PlanWAM",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-10-16T00:42:17.697Z"
@@ -1319,7 +1319,7 @@
                 "open_issues": 1,
                 "owner": "worldbench",
                 "repo": "VITAL",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "automative",
                   "autonomous-driving",
@@ -1654,7 +1654,7 @@
                 "open_issues": 10,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 833,
+                "stars": 832,
                 "topics": [
                   "autonomous-driving",
                   "cot",
@@ -1930,7 +1930,7 @@
                 "open_issues": 25,
                 "owner": "RenzKa",
                 "repo": "simlingo",
-                "stars": 458,
+                "stars": 461,
                 "topics": [
                   "autonomous-driving",
                   "carla",
@@ -2104,7 +2104,7 @@
                 "open_issues": 11,
                 "owner": "QwenLM",
                 "repo": "Qwen-Drive-1.0",
-                "stars": 514,
+                "stars": 515,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2125,7 +2125,7 @@
                 "open_issues": 1,
                 "owner": "AhernResearch",
                 "repo": "grava",
-                "stars": 218,
+                "stars": 237,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2188,7 +2188,7 @@
                 "open_issues": 3,
                 "owner": "haha-yuki-haha",
                 "repo": "AUGUstus",
-                "stars": 31,
+                "stars": 33,
                 "topics": [
                   "augustus",
                   "autonomous-driving",
@@ -2310,10 +2310,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-10-15T19:36:09Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "jiagengliu02",
                 "repo": "AutoAgent0",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-10-16T00:42:17.697Z"
@@ -2362,7 +2362,7 @@
                 "id": 996860888,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T09:55:30Z",
+                "last_commit": "2026-10-17T16:47:11Z",
                 "open_issues": 18,
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
@@ -2627,7 +2627,7 @@
                 "open_issues": 0,
                 "owner": "VAIL-UCLA",
                 "repo": "NavSafe-infty",
-                "stars": 42,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-10-16T00:42:17.697Z"
@@ -2861,7 +2861,7 @@
                 "open_issues": 1,
                 "owner": "yhli123",
                 "repo": "WOMD-Reasoning",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2988,6 +2988,34 @@
             },
             {
               "node_type": "item",
+              "title": "PedestrianQA",
+              "description": "PEDESTRIANQA: A Benchmark for Vision-Language Models on Pedestrian Intention and Trajectory Prediction ICRA 2026  Models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Dataset and Models for \"PedestrianQA: A Benchmark for Vision-Language Models on Pedestrian Intention and Trajectory Prediction\"",
+                "homepage": null,
+                "id": 1247466036,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-05-23T13:32:17Z",
+                "open_issues": 1,
+                "owner": "botmahn",
+                "repo": "PedestrianQA",
+                "stars": 5,
+                "topics": [
+                  "autonomous-driving",
+                  "multimodal-large-language-models",
+                  "pedestrian-safety",
+                  "rationale-generation",
+                  "video-question-answering",
+                  "video-text-to-text"
+                ]
+              },
+              "first_seen": "2026-10-18T00:14:41.558Z"
+            },
+            {
+              "node_type": "item",
               "title": "CAViAR",
               "description": "CAViAR: A Causal Video Dataset for Fine-Grained Accident Reasoning in Real-World Scenarios arXiv 2026 -",
               "children": [],
@@ -3061,7 +3089,7 @@
                 "id": 1136438386,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-16T20:26:34Z",
+                "last_commit": "2026-10-17T20:00:16Z",
                 "open_issues": 1,
                 "owner": "Mi3-Lab",
                 "repo": "doPlan",
@@ -3108,7 +3136,7 @@
                 "id": 1228135197,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-14T05:47:59Z",
+                "last_commit": "2026-10-17T09:31:01Z",
                 "open_issues": 1,
                 "owner": "ZihanYou",
                 "repo": "Language2Drive",
@@ -3283,7 +3311,7 @@
             "open_issues": 0,
             "owner": "worldbench",
             "repo": "Orbia",
-            "stars": 35,
+            "stars": 41,
             "topics": [
               "3d",
               "3d-world-model",
@@ -3308,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:44:44.304Z",
+    "last_updated": "2026-10-18T00:14:41.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
@@ -3316,11 +3344,11 @@
       "id": 1052088443,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2026-10-16T11:08:40Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-17T10:28:54Z",
+      "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-vla-for-ad",
-      "stars": 502,
+      "stars": 503,
       "topics": [
         "automotive",
         "autonomous-driving",
@@ -3344,7 +3372,7 @@
         "world-action-model"
       ]
     },
-    "original_repository_sha": "18b68aec3975ee37664beeaafdba25530c919f7e",
+    "original_repository_sha": "d158acf7036e577f5cc7eb70b553732a7ac440ba",
     "enhanced_repository": "enhansome/enhansome-vla-for-ad",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome VLA for Autonomous Driving with stars"
