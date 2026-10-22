@@ -132,7 +132,7 @@
                 "open_issues": 28,
                 "owner": "OpenDriveLab",
                 "repo": "TCP",
-                "stars": 489,
+                "stars": 490,
                 "topics": [
                   "carla-driving-simulator",
                   "end-to-end-autonomous-driving"
@@ -212,7 +212,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1608,
+                "stars": 1609,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -277,7 +277,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T13:24:51Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "OpenDriveLab",
                 "repo": "SimScale",
                 "stars": 336,
@@ -314,7 +314,7 @@
                 "open_issues": 13,
                 "owner": "OpenDriveLab",
                 "repo": "ST-P3",
-                "stars": 444,
+                "stars": 445,
                 "topics": [
                   "end-to-end-autonomous-driving",
                   "perception-prediction-planning"
@@ -338,7 +338,7 @@
                 "open_issues": 127,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4793,
+                "stars": 4794,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-driving-framework",
@@ -369,7 +369,7 @@
                 "open_issues": 78,
                 "owner": "hustvl",
                 "repo": "VAD",
-                "stars": 1385,
+                "stars": 1386,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end"
@@ -481,7 +481,7 @@
                 "open_issues": 37,
                 "owner": "swc-17",
                 "repo": "SparseDrive",
-                "stars": 1017,
+                "stars": 1019,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -502,7 +502,7 @@
                 "open_issues": 31,
                 "owner": "hustvl",
                 "repo": "DiffusionDrive",
-                "stars": 1517,
+                "stars": 1518,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -636,7 +636,7 @@
                 "open_issues": 6,
                 "owner": "valeoai",
                 "repo": "DrivoR",
-                "stars": 297,
+                "stars": 298,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -717,13 +717,55 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-12T11:24:59Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "CountNemoChan",
                 "repo": "FPD-Drive",
                 "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-10-16T00:42:17.697Z"
+            },
+            {
+              "node_type": "item",
+              "title": "GRID-Planner",
+              "description": "GRID-Planner: Graph-Structured Relational Reward Shaping for Diffusion Planning arXiv 2026 -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ACM MM2026] GRID-Planner: Graph-Structured Relational Reward Shaping for Diffusion Planning",
+                "homepage": null,
+                "id": 1104986049,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-16T03:57:22Z",
+                "open_issues": 0,
+                "owner": "yangzhaojason",
+                "repo": "GRID-Planner",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-22T00:51:49.463Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Expand-and-Prune",
+              "description": "Expand-and-Prune: Test-Time Candidate-Space Adaptation for End-to-End Autonomous Driving WACV 2027 -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[WACV'27] Expand-and-Prune",
+                "homepage": null,
+                "id": 1421781098,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-10-19T06:50:34Z",
+                "open_issues": 0,
+                "owner": "iis-esslingen",
+                "repo": "Expand-and-Prune",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-10-22T00:51:49.463Z"
             }
           ],
           "description": ":timer_clock: In chronological order, from the earliest to the latest.",
@@ -800,7 +842,7 @@
                 "open_issues": 8,
                 "owner": "BraveGroup",
                 "repo": "Drive-WM",
-                "stars": 439,
+                "stars": 440,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1151,7 +1193,7 @@
                 "open_issues": 4,
                 "owner": "linhanwang",
                 "repo": "Drive-JEPA",
-                "stars": 199,
+                "stars": 201,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1169,7 +1211,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-20T12:03:44Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "LeapWM",
                 "repo": "da-wam",
                 "stars": 22,
@@ -1193,7 +1235,7 @@
                 "open_issues": 2,
                 "owner": "AFARI-Research",
                 "repo": "WA-JEPA",
-                "stars": 81,
+                "stars": 82,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -1625,7 +1667,7 @@
                 "open_issues": 84,
                 "owner": "NVlabs",
                 "repo": "OmniDrive",
-                "stars": 647,
+                "stars": 648,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2125,7 +2167,7 @@
                 "open_issues": 11,
                 "owner": "QwenLM",
                 "repo": "Qwen-Drive-1.0",
-                "stars": 519,
+                "stars": 521,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2146,7 +2188,7 @@
                 "open_issues": 1,
                 "owner": "AhernResearch",
                 "repo": "grava",
-                "stars": 300,
+                "stars": 322,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2243,6 +2285,48 @@
                 "topics": []
               },
               "first_seen": "2026-10-16T00:42:17.697Z"
+            },
+            {
+              "node_type": "item",
+              "title": "safedrive-vla",
+              "description": "SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving CoRL 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CoRL 2026] SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving",
+                "homepage": null,
+                "id": 1408137229,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-15T02:08:18Z",
+                "open_issues": 1,
+                "owner": "ASGuard-UCI",
+                "repo": "safedrive-vla",
+                "stars": 27,
+                "topics": []
+              },
+              "first_seen": "2026-10-22T00:51:49.463Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Scene-Adaptive-VLA",
+              "description": "Scene-Adaptive VLA: Efficient Autonomous Driving via Dynamic Layer Routing NeurIPS 2026 -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Scene-Adaptive VLA: Efficient Autonomous Driving via Dynamic Layer Routing",
+                "homepage": null,
+                "id": 1416454981,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-20T03:06:57Z",
+                "open_issues": 0,
+                "owner": "yang-luvu",
+                "repo": "Scene-Adaptive-VLA",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-22T00:51:49.463Z"
             }
           ],
           "description": ":timer_clock: In chronological order, from the earliest to the latest.",
@@ -2330,11 +2414,11 @@
                 "id": 1416388069,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T06:59:24Z",
+                "last_commit": "2026-10-21T03:02:50Z",
                 "open_issues": 1,
                 "owner": "jiagengliu02",
                 "repo": "AutoAgent0",
-                "stars": 31,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-10-16T00:42:17.697Z"
@@ -2387,7 +2471,7 @@
                 "open_issues": 19,
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
-                "stars": 625,
+                "stars": 626,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-policy",
@@ -2498,7 +2582,7 @@
                 "open_issues": 465,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3426,
+                "stars": 3427,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2519,7 +2603,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-08-27T05:24:55Z",
-                "open_issues": 100,
+                "open_issues": 102,
                 "owner": "motional",
                 "repo": "nuplan-devkit",
                 "stars": 1042,
@@ -2624,7 +2708,7 @@
                 "open_issues": 465,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3426,
+                "stars": 3427,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2644,11 +2728,11 @@
                 "id": 1329287297,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T01:38:19Z",
+                "last_commit": "2026-10-21T10:31:12Z",
                 "open_issues": 1,
                 "owner": "VAIL-UCLA",
                 "repo": "NavSafe-infty",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-10-16T00:42:17.697Z"
@@ -2981,7 +3065,7 @@
                 "open_issues": 84,
                 "owner": "NVlabs",
                 "repo": "OmniDrive",
-                "stars": 647,
+                "stars": 648,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -3110,7 +3194,7 @@
                 "id": 1136438386,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-20T21:10:27Z",
+                "last_commit": "2026-10-21T21:10:10Z",
                 "open_issues": 1,
                 "owner": "Mi3-Lab",
                 "repo": "doPlan",
@@ -3161,7 +3245,7 @@
                 "open_issues": 1,
                 "owner": "ZihanYou",
                 "repo": "Language2Drive",
-                "stars": 16,
+                "stars": 17,
                 "topics": [
                   "autonomous-driving",
                   "benchmark",
@@ -3171,6 +3255,27 @@
                 ]
               },
               "first_seen": "2026-10-16T00:42:17.697Z"
+            },
+            {
+              "node_type": "item",
+              "title": "STRIDE",
+              "description": "STRIDE: Evaluating Spatiotemporal Reasoning in Driving Edge Cases arXiv 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "STRIDE: Spatial-Temporal Reasoning In Driving Environments",
+                "homepage": "https://pluslabnlp.github.io/STRIDE/",
+                "id": 1393985836,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-30T19:58:10Z",
+                "open_issues": 0,
+                "owner": "PlusLabNLP",
+                "repo": "STRIDE",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-22T00:51:49.463Z"
             }
           ],
           "description": null,
@@ -3311,7 +3416,7 @@
             "open_issues": 1,
             "owner": "AutoLab-SAI-SJTU",
             "repo": "Drive3R",
-            "stars": 13,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-10-16T00:42:17.697Z"
@@ -3332,7 +3437,7 @@
             "open_issues": 0,
             "owner": "worldbench",
             "repo": "Orbia",
-            "stars": 46,
+            "stars": 48,
             "topics": [
               "3d",
               "3d-world-model",
@@ -3357,7 +3462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T00:52:12.904Z",
+    "last_updated": "2026-10-22T00:51:49.463Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
@@ -3365,11 +3470,11 @@
       "id": 1052088443,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2026-10-21T00:28:54Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-21T01:54:16Z",
+      "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-vla-for-ad",
-      "stars": 508,
+      "stars": 513,
       "topics": [
         "automotive",
         "autonomous-driving",
@@ -3393,7 +3498,7 @@
         "world-action-model"
       ]
     },
-    "original_repository_sha": "106261d85825fc578f1a746e2827ef6129948669",
+    "original_repository_sha": "a8f7db008224abbfc9e6b58f1640e1c01eedbf74",
     "enhanced_repository": "enhansome/enhansome-vla-for-ad",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome VLA for Autonomous Driving with stars"
