@@ -182,7 +182,7 @@
                 "open_issues": 31,
                 "owner": "dotchen",
                 "repo": "LAV",
-                "stars": 438,
+                "stars": 437,
                 "topics": [
                   "autonomous-driving",
                   "carla-simulator",
@@ -212,7 +212,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1608,
+                "stars": 1609,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -338,7 +338,7 @@
                 "open_issues": 127,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4797,
+                "stars": 4796,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-driving-framework",
@@ -523,7 +523,7 @@
                 "open_issues": 18,
                 "owner": "YvanYin",
                 "repo": "GoalFlow",
-                "stars": 428,
+                "stars": 427,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end-driving",
@@ -636,7 +636,7 @@
                 "open_issues": 6,
                 "owner": "valeoai",
                 "repo": "DrivoR",
-                "stars": 301,
+                "stars": 302,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -863,7 +863,7 @@
                 "open_issues": 6,
                 "owner": "YvanYin",
                 "repo": "DrivingWorld",
-                "stars": 245,
+                "stars": 246,
                 "topics": [
                   "autonomous-driving",
                   "driving-world-model",
@@ -1095,6 +1095,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "WA-JEPA",
+              "description": "WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving arXiv 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving",
+                "homepage": null,
+                "id": 1321500102,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-04T03:52:57Z",
+                "open_issues": 1,
+                "owner": "AFARI-Research",
+                "repo": "WA-JEPA",
+                "stars": 85,
+                "topics": []
+              },
+              "first_seen": "2026-10-05T01:14:04.656Z"
+            },
+            {
+              "node_type": "item",
               "title": "WoTE",
               "description": "End-to-End Driving with Online Trajectory Evaluation via BEV World Model ICCV 2025 -",
               "children": [],
@@ -1151,7 +1172,7 @@
                 "open_issues": 14,
                 "owner": "PeidongLi",
                 "repo": "SSR",
-                "stars": 274,
+                "stars": 275,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1222,7 +1243,7 @@
             {
               "node_type": "item",
               "title": "WA-JEPA",
-              "description": "WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving arXiv 2026 -",
+              "description": "WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving arXiv 2026",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1232,7 +1253,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T03:52:57Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "AFARI-Research",
                 "repo": "WA-JEPA",
                 "stars": 85,
@@ -1252,11 +1273,11 @@
                 "id": 1394020772,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T20:33:41Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-24T03:14:14Z",
+                "open_issues": 0,
                 "owner": "HaoranZhuExplorer",
                 "repo": "AD-E2E-JEPA",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -1294,7 +1315,7 @@
                 "id": 1361109709,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-10T18:32:00Z",
+                "last_commit": "2026-10-24T02:39:10Z",
                 "open_issues": 2,
                 "owner": "LeapWM",
                 "repo": "rewam",
@@ -1473,7 +1494,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1352,
+                "stars": 1351,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -1609,7 +1630,7 @@
                 "open_issues": 26,
                 "owner": "taco-group",
                 "repo": "OpenEMMA",
-                "stars": 960,
+                "stars": 959,
                 "topics": [
                   "algorithms",
                   "artificial-intelligence",
@@ -1717,7 +1738,7 @@
                 "open_issues": 10,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 834,
+                "stars": 831,
                 "topics": [
                   "autonomous-driving",
                   "cot",
@@ -2153,6 +2174,27 @@
             },
             {
               "node_type": "item",
+              "title": "ChainFlow-VLA",
+              "description": "ChainFlow-VLA: Causal Flow Planning with Vision-Language Models NeurIPS 2026 -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2026] ChainFlow-VLA: Causal Flow Planning with Vision-Language Models",
+                "homepage": null,
+                "id": 1236203421,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-24T16:36:50Z",
+                "open_issues": 3,
+                "owner": "AFARI-Research",
+                "repo": "ChainFlow-VLA",
+                "stars": 53,
+                "topics": []
+              },
+              "first_seen": "2026-10-25T00:29:50.905Z"
+            },
+            {
+              "node_type": "item",
               "title": "Qwen-Drive-1.0",
               "description": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving arXiv 2026",
               "children": [],
@@ -2167,7 +2209,7 @@
                 "open_issues": 11,
                 "owner": "QwenLM",
                 "repo": "Qwen-Drive-1.0",
-                "stars": 523,
+                "stars": 522,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2188,7 +2230,7 @@
                 "open_issues": 1,
                 "owner": "AhernResearch",
                 "repo": "grava",
-                "stars": 328,
+                "stars": 350,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2404,6 +2446,27 @@
             },
             {
               "node_type": "item",
+              "title": "CoWorld-VLA",
+              "description": "CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving NeurIPS 2026 -",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving",
+                "homepage": null,
+                "id": 1237410662,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-28T07:23:41Z",
+                "open_issues": 1,
+                "owner": "AFARI-Research",
+                "repo": "CoWorld-VLA",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-10-25T00:29:50.905Z"
+            },
+            {
+              "node_type": "item",
               "title": "AutoAgent0",
               "description": "AutoAgent0: An Agentic Runtime for Safe Closed-Loop Driving arXiv 2026",
               "children": [],
@@ -2471,7 +2534,7 @@
                 "open_issues": 18,
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
-                "stars": 626,
+                "stars": 625,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-policy",
@@ -2582,7 +2645,7 @@
                 "open_issues": 465,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3427,
+                "stars": 3426,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2661,7 +2724,7 @@
                 "open_issues": 60,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1965,
+                "stars": 1964,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2708,7 +2771,7 @@
                 "open_issues": 465,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3427,
+                "stars": 3426,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2893,7 +2956,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1352,
+                "stars": 1351,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -2985,7 +3048,7 @@
                 "license": null,
                 "last_commit": "2024-01-01T15:26:18Z",
                 "open_issues": 0,
-                "owner": "fudan-zvg",
+                "owner": "LogosIntelligenceLab",
                 "repo": "Reason2Drive",
                 "stars": 102,
                 "topics": []
@@ -3194,7 +3257,7 @@
                 "id": 1136438386,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-23T20:55:06Z",
+                "last_commit": "2026-10-24T20:07:07Z",
                 "open_issues": 1,
                 "owner": "Mi3-Lab",
                 "repo": "doPlan",
@@ -3301,7 +3364,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-03T06:09:12Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "776styjsu",
             "repo": "drive-the-thoughts",
             "stars": 3,
@@ -3416,7 +3479,7 @@
             "open_issues": 1,
             "owner": "AutoLab-SAI-SJTU",
             "repo": "Drive3R",
-            "stars": 24,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-10-16T00:42:17.697Z"
@@ -3437,7 +3500,7 @@
             "open_issues": 0,
             "owner": "worldbench",
             "repo": "Orbia",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "3d",
               "3d-world-model",
@@ -3462,7 +3525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:01:04.095Z",
+    "last_updated": "2026-10-25T00:29:50.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
@@ -3470,11 +3533,11 @@
       "id": 1052088443,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2026-10-23T08:14:41Z",
-      "open_issues": 0,
+      "last_commit": "2026-10-24T12:07:53Z",
+      "open_issues": 1,
       "owner": "worldbench",
       "repo": "awesome-vla-for-ad",
-      "stars": 515,
+      "stars": 518,
       "topics": [
         "automotive",
         "autonomous-driving",
@@ -3498,7 +3561,7 @@
         "world-action-model"
       ]
     },
-    "original_repository_sha": "4a22f1ff16eee82dfe2a08bd0587e912b9ab0ec6",
+    "original_repository_sha": "7c7ed7d51fe911b8b886eb25fe6b4f077b4b5f3c",
     "enhanced_repository": "enhansome/enhansome-vla-for-ad",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome VLA for Autonomous Driving with stars"
