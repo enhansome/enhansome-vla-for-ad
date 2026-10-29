@@ -212,7 +212,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1610,
+                "stars": 1611,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -277,7 +277,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T13:24:51Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "OpenDriveLab",
                 "repo": "SimScale",
                 "stars": 337,
@@ -439,7 +439,7 @@
                 "open_issues": 11,
                 "owner": "NVlabs",
                 "repo": "Hydra-MDP",
-                "stars": 420,
+                "stars": 421,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -481,7 +481,7 @@
                 "open_issues": 37,
                 "owner": "swc-17",
                 "repo": "SparseDrive",
-                "stars": 1020,
+                "stars": 1021,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -594,7 +594,7 @@
                 "open_issues": 20,
                 "owner": "hustvl",
                 "repo": "DiffusionDriveV2",
-                "stars": 382,
+                "stars": 383,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -965,7 +965,7 @@
                 "open_issues": 2,
                 "owner": "youngzhou1999",
                 "repo": "DriveDreamer-Policy",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-10-16T00:42:17.697Z"
@@ -986,10 +986,31 @@
                 "open_issues": 3,
                 "owner": "xiaomi-mlab",
                 "repo": "DriveVA",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-09-25T00:45:56.476Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OSWAM",
+              "description": "OSWAM: An Effective World Action Model with One-Step Action Generation arXiv 2026",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "OSWAM: An Effective World Action Model with One-Step Action Generation",
+                "homepage": null,
+                "id": 1428563816,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-27T18:22:05Z",
+                "open_issues": 1,
+                "owner": "PolyU-VCLab",
+                "repo": "OSWAM",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-10-29T01:55:44.521Z"
             }
           ],
           "description": ":timer_clock: In chronological order, from the earliest to the latest.",
@@ -1277,7 +1298,7 @@
                 "open_issues": 0,
                 "owner": "HaoranZhuExplorer",
                 "repo": "AD-E2E-JEPA",
-                "stars": 70,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -1688,7 +1709,7 @@
                 "open_issues": 84,
                 "owner": "NVlabs",
                 "repo": "OmniDrive",
-                "stars": 648,
+                "stars": 649,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1972,7 +1993,7 @@
                 "open_issues": 82,
                 "owner": "opendilab",
                 "repo": "LMDrive",
-                "stars": 930,
+                "stars": 929,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2014,7 +2035,7 @@
                 "open_issues": 25,
                 "owner": "RenzKa",
                 "repo": "simlingo",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "autonomous-driving",
                   "carla",
@@ -2040,7 +2061,7 @@
                 "open_issues": 6,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 669,
+                "stars": 670,
                 "topics": [
                   "autonomous-driving",
                   "grpo",
@@ -2066,7 +2087,7 @@
                 "open_issues": 3,
                 "owner": "Thinklab-SJTU",
                 "repo": "DriveMoE",
-                "stars": 240,
+                "stars": 241,
                 "topics": [
                   "mixture-of-experts",
                   "vision-language-action-model"
@@ -2230,7 +2251,7 @@
                 "open_issues": 11,
                 "owner": "QwenLM",
                 "repo": "Qwen-Drive-1.0",
-                "stars": 527,
+                "stars": 534,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2251,7 +2272,7 @@
                 "open_issues": 1,
                 "owner": "AhernResearch",
                 "repo": "grava",
-                "stars": 411,
+                "stars": 433,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2365,7 +2386,7 @@
                 "open_issues": 1,
                 "owner": "ASGuard-UCI",
                 "repo": "safedrive-vla",
-                "stars": 29,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-10-22T00:51:49.463Z"
@@ -2502,7 +2523,7 @@
                 "open_issues": 1,
                 "owner": "jiagengliu02",
                 "repo": "AutoAgent0",
-                "stars": 36,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-10-16T00:42:17.697Z"
@@ -2527,7 +2548,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-26T22:27:01Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
                 "stars": 179,
@@ -2639,7 +2660,7 @@
                 "open_issues": 46,
                 "owner": "bdd100k",
                 "repo": "bdd100k",
-                "stars": 577,
+                "stars": 578,
                 "topics": [
                   "dataset",
                   "detection",
@@ -2690,7 +2711,7 @@
                 "open_issues": 102,
                 "owner": "motional",
                 "repo": "nuplan-devkit",
-                "stars": 1044,
+                "stars": 1046,
                 "topics": [
                   "autonomous-driving",
                   "machine-learning",
@@ -2716,7 +2737,7 @@
                 "open_issues": 31,
                 "owner": "argoverse",
                 "repo": "av2-api",
-                "stars": 416,
+                "stars": 417,
                 "topics": [
                   "3d-object-detection",
                   "argoverse",
@@ -2745,7 +2766,7 @@
                 "open_issues": 60,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
-                "stars": 1966,
+                "stars": 1969,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2816,7 +2837,7 @@
                 "open_issues": 0,
                 "owner": "VAIL-UCLA",
                 "repo": "NavSafe-infty",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-10-16T00:42:17.697Z"
@@ -2837,7 +2858,7 @@
                 "open_issues": 1,
                 "owner": "emb-ai",
                 "repo": "traffic-sign-bench",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "autonomous-driving",
                   "benchmark",
@@ -2956,7 +2977,7 @@
                 "open_issues": 82,
                 "owner": "opendilab",
                 "repo": "LMDrive",
-                "stars": 930,
+                "stars": 929,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -3149,7 +3170,7 @@
                 "open_issues": 84,
                 "owner": "NVlabs",
                 "repo": "OmniDrive",
-                "stars": 648,
+                "stars": 649,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -3278,7 +3299,7 @@
                 "id": 1136438386,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-27T21:45:03Z",
+                "last_commit": "2026-10-28T18:16:07Z",
                 "open_issues": 1,
                 "owner": "Mi3-Lab",
                 "repo": "doPlan",
@@ -3521,7 +3542,7 @@
             "open_issues": 0,
             "owner": "worldbench",
             "repo": "Orbia",
-            "stars": 49,
+            "stars": 51,
             "topics": [
               "3d",
               "3d-world-model",
@@ -3546,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T01:38:41.571Z",
+    "last_updated": "2026-10-29T01:55:44.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
@@ -3554,11 +3575,11 @@
       "id": 1052088443,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2026-10-27T14:40:50Z",
+      "last_commit": "2026-10-28T04:41:14Z",
       "open_issues": 0,
       "owner": "worldbench",
       "repo": "awesome-vla-for-ad",
-      "stars": 520,
+      "stars": 521,
       "topics": [
         "automotive",
         "autonomous-driving",
@@ -3582,7 +3603,7 @@
         "world-action-model"
       ]
     },
-    "original_repository_sha": "e9464f20a1db2b7826e51fdf4353f829d37194a0",
+    "original_repository_sha": "f7676cbbdd23cc2bece99baa8c9c7a37714d5ba4",
     "enhanced_repository": "enhansome/enhansome-vla-for-ad",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome VLA for Autonomous Driving with stars"
