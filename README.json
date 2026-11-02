@@ -481,7 +481,7 @@
                 "open_issues": 37,
                 "owner": "swc-17",
                 "repo": "SparseDrive",
-                "stars": 1021,
+                "stars": 1022,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -720,7 +720,7 @@
                 "open_issues": 2,
                 "owner": "CountNemoChan",
                 "repo": "FPD-Drive",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-10-16T00:42:17.697Z"
@@ -1007,7 +1007,7 @@
                 "open_issues": 1,
                 "owner": "PolyU-VCLab",
                 "repo": "OSWAM",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-10-29T01:55:44.521Z"
@@ -1319,7 +1319,7 @@
                 "open_issues": 0,
                 "owner": "World4Scorer",
                 "repo": "World4Scorer",
-                "stars": 15,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2061,7 +2061,7 @@
                 "open_issues": 6,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 670,
+                "stars": 671,
                 "topics": [
                   "autonomous-driving",
                   "grpo",
@@ -2182,7 +2182,7 @@
                 "open_issues": 4,
                 "owner": "pqh22",
                 "repo": "ColaVLA",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "autonomous-driving",
                   "deep-learning",
@@ -2251,7 +2251,7 @@
                 "open_issues": 11,
                 "owner": "QwenLM",
                 "repo": "Qwen-Drive-1.0",
-                "stars": 538,
+                "stars": 539,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2272,7 +2272,7 @@
                 "open_issues": 1,
                 "owner": "AhernResearch",
                 "repo": "grava",
-                "stars": 487,
+                "stars": 491,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2837,7 +2837,7 @@
                 "open_issues": 0,
                 "owner": "VAIL-UCLA",
                 "repo": "NavSafe-infty",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-10-16T00:42:17.697Z"
@@ -3299,7 +3299,7 @@
                 "id": 1136438386,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-31T20:55:11Z",
+                "last_commit": "2026-11-01T21:37:29Z",
                 "open_issues": 1,
                 "owner": "Mi3-Lab",
                 "repo": "doPlan",
@@ -3324,7 +3324,7 @@
                 "open_issues": 2,
                 "owner": "aditya-ramabadran",
                 "repo": "drivingbench_harness_v1",
-                "stars": 60,
+                "stars": 61,
                 "topics": [
                   "ai",
                   "cars",
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T01:25:48.812Z",
+    "last_updated": "2026-11-02T01:46:12.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
