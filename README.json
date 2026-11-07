@@ -132,7 +132,7 @@
                 "open_issues": 28,
                 "owner": "OpenDriveLab",
                 "repo": "TCP",
-                "stars": 491,
+                "stars": 490,
                 "topics": [
                   "carla-driving-simulator",
                   "end-to-end-autonomous-driving"
@@ -277,7 +277,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T13:24:51Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "OpenDriveLab",
                 "repo": "SimScale",
                 "stars": 339,
@@ -338,7 +338,7 @@
                 "open_issues": 127,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4808,
+                "stars": 4809,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-driving-framework",
@@ -369,7 +369,7 @@
                 "open_issues": 78,
                 "owner": "hustvl",
                 "repo": "VAD",
-                "stars": 1391,
+                "stars": 1392,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end"
@@ -481,7 +481,7 @@
                 "open_issues": 37,
                 "owner": "swc-17",
                 "repo": "SparseDrive",
-                "stars": 1023,
+                "stars": 1024,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -986,10 +986,31 @@
                 "open_issues": 3,
                 "owner": "xiaomi-mlab",
                 "repo": "DriveVA",
-                "stars": 62,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-09-25T00:45:56.476Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SUV",
+              "description": "SUV: Future Scene Understanding as Video Generation for End-to-End Driving arXiv 2026 - Models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of SUV: Unified Future Scene Understanding as Video Generation for End-to-End Driving",
+                "homepage": null,
+                "id": 1320240721,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-29T06:42:28Z",
+                "open_issues": 1,
+                "owner": "ASH-2046",
+                "repo": "SUV",
+                "stars": 22,
+                "topics": []
+              },
+              "first_seen": "2026-11-07T02:19:21.856Z"
             },
             {
               "node_type": "item",
@@ -1151,7 +1172,7 @@
                 "open_issues": 19,
                 "owner": "liyingyanUCAS",
                 "repo": "WoTE",
-                "stars": 276,
+                "stars": 275,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1193,7 +1214,7 @@
                 "open_issues": 14,
                 "owner": "PeidongLi",
                 "repo": "SSR",
-                "stars": 277,
+                "stars": 278,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1546,7 +1567,7 @@
                 "open_issues": 3,
                 "owner": "sled-group",
                 "repo": "driVLMe",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1609,7 +1630,7 @@
                 "open_issues": 9,
                 "owner": "wzzheng",
                 "repo": "Doe",
-                "stars": 113,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1651,7 +1672,7 @@
                 "open_issues": 26,
                 "owner": "taco-group",
                 "repo": "OpenEMMA",
-                "stars": 957,
+                "stars": 958,
                 "topics": [
                   "algorithms",
                   "artificial-intelligence",
@@ -1759,7 +1780,7 @@
                 "open_issues": 10,
                 "owner": "MIV-XJTU",
                 "repo": "FSDrive",
-                "stars": 819,
+                "stars": 820,
                 "topics": [
                   "autonomous-driving",
                   "cot",
@@ -1849,7 +1870,7 @@
                 "open_issues": 13,
                 "owner": "hustvl",
                 "repo": "AlphaDrive",
-                "stars": 336,
+                "stars": 335,
                 "topics": [
                   "autonomous-driving",
                   "grpo",
@@ -2035,7 +2056,7 @@
                 "open_issues": 25,
                 "owner": "RenzKa",
                 "repo": "simlingo",
-                "stars": 472,
+                "stars": 473,
                 "topics": [
                   "autonomous-driving",
                   "carla",
@@ -2251,7 +2272,7 @@
                 "open_issues": 11,
                 "owner": "QwenLM",
                 "repo": "Qwen-Drive-1.0",
-                "stars": 544,
+                "stars": 546,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2660,7 +2681,7 @@
                 "open_issues": 46,
                 "owner": "bdd100k",
                 "repo": "bdd100k",
-                "stars": 581,
+                "stars": 579,
                 "topics": [
                   "dataset",
                   "detection",
@@ -2734,7 +2755,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-02-19T05:33:57Z",
-                "open_issues": 32,
+                "open_issues": 31,
                 "owner": "argoverse",
                 "repo": "av2-api",
                 "stars": 418,
@@ -2837,7 +2858,7 @@
                 "open_issues": 0,
                 "owner": "VAIL-UCLA",
                 "repo": "NavSafe-infty",
-                "stars": 54,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-10-16T00:42:17.697Z"
@@ -3142,7 +3163,7 @@
                 "open_issues": 13,
                 "owner": "hustvl",
                 "repo": "AlphaDrive",
-                "stars": 336,
+                "stars": 335,
                 "topics": [
                   "autonomous-driving",
                   "grpo",
@@ -3299,7 +3320,7 @@
                 "id": 1136438386,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-05T23:11:09Z",
+                "last_commit": "2026-11-06T22:39:20Z",
                 "open_issues": 1,
                 "owner": "Mi3-Lab",
                 "repo": "doPlan",
@@ -3310,20 +3331,20 @@
             },
             {
               "node_type": "item",
-              "title": "drivingbench_harness_v1",
+              "title": "drivingbench_harness_code",
               "description": "DrivingBench: Can Vision-Language Models Drive a Toyota Corolla? arXiv 2026",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Harness/code for DrivingBench v1, which allows frontier LLMs to control cars via Comma/openpilot + MCP tools.",
+                "description": "Code for DrivingBench: AI models drive real cars (comma/openpilot, Toyota and Tesla) through MCP tools, a runner loop for API models and trained policies, and a simulator.",
                 "homepage": "https://drivingbench.com",
                 "id": 1376088894,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-26T01:19:53Z",
+                "last_commit": "2026-11-06T20:42:36Z",
                 "open_issues": 2,
                 "owner": "aditya-ramabadran",
-                "repo": "drivingbench_harness_v1",
+                "repo": "drivingbench_harness_code",
                 "stars": 61,
                 "topics": [
                   "ai",
@@ -3350,7 +3371,7 @@
                 "open_issues": 1,
                 "owner": "ZihanYou",
                 "repo": "Language2Drive",
-                "stars": 30,
+                "stars": 32,
                 "topics": [
                   "autonomous-driving",
                   "benchmark",
@@ -3451,7 +3472,7 @@
             "open_issues": 0,
             "owner": "TangZhengxu",
             "repo": "awesome-av-cot",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "autonomous-driving",
               "awesome-list",
@@ -3542,7 +3563,7 @@
             "open_issues": 0,
             "owner": "worldbench",
             "repo": "Orbia",
-            "stars": 63,
+            "stars": 64,
             "topics": [
               "3d",
               "3d-world-model",
@@ -3567,7 +3588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T02:47:06.877Z",
+    "last_updated": "2026-11-07T02:19:21.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
@@ -3575,8 +3596,8 @@
       "id": 1052088443,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2026-10-28T04:41:14Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-06T04:53:14Z",
+      "open_issues": 1,
       "owner": "worldbench",
       "repo": "awesome-vla-for-ad",
       "stars": 524,
@@ -3603,7 +3624,7 @@
         "world-action-model"
       ]
     },
-    "original_repository_sha": "f7676cbbdd23cc2bece99baa8c9c7a37714d5ba4",
+    "original_repository_sha": "2973de9550aab1d3e8492f4ced64ac2dd6954ffc",
     "enhanced_repository": "enhansome/enhansome-vla-for-ad",
     "enhanced_repository_description": null,
     "title": ":sunglasses: Awesome VLA for Autonomous Driving with stars"
