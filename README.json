@@ -212,7 +212,7 @@
                 "open_issues": 0,
                 "owner": "autonomousvision",
                 "repo": "transfuser",
-                "stars": 1613,
+                "stars": 1612,
                 "topics": [
                   "autonomous-driving",
                   "imitation-learning",
@@ -338,7 +338,7 @@
                 "open_issues": 127,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4809,
+                "stars": 4810,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-driving-framework",
@@ -2597,7 +2597,7 @@
                 "open_issues": 18,
                 "owner": "xiaomi-research",
                 "repo": "recogdrive",
-                "stars": 626,
+                "stars": 627,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-policy",
@@ -2732,7 +2732,7 @@
                 "open_issues": 102,
                 "owner": "motional",
                 "repo": "nuplan-devkit",
-                "stars": 1050,
+                "stars": 1051,
                 "topics": [
                   "autonomous-driving",
                   "machine-learning",
@@ -3320,7 +3320,7 @@
                 "id": 1136438386,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-06T22:39:20Z",
+                "last_commit": "2026-11-07T21:22:47Z",
                 "open_issues": 1,
                 "owner": "Mi3-Lab",
                 "repo": "doPlan",
@@ -3371,7 +3371,7 @@
                 "open_issues": 1,
                 "owner": "ZihanYou",
                 "repo": "Language2Drive",
-                "stars": 32,
+                "stars": 35,
                 "topics": [
                   "autonomous-driving",
                   "benchmark",
@@ -3588,7 +3588,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T02:19:21.856Z",
+    "last_updated": "2026-11-08T01:46:10.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
