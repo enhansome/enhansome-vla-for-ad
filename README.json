@@ -481,7 +481,7 @@
                 "open_issues": 37,
                 "owner": "swc-17",
                 "repo": "SparseDrive",
-                "stars": 1024,
+                "stars": 1025,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -502,7 +502,7 @@
                 "open_issues": 31,
                 "owner": "hustvl",
                 "repo": "DiffusionDrive",
-                "stars": 1525,
+                "stars": 1526,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -594,7 +594,7 @@
                 "open_issues": 20,
                 "owner": "hustvl",
                 "repo": "DiffusionDriveV2",
-                "stars": 384,
+                "stars": 385,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -636,7 +636,7 @@
                 "open_issues": 5,
                 "owner": "valeoai",
                 "repo": "DrivoR",
-                "stars": 304,
+                "stars": 305,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -892,7 +892,7 @@
                 "open_issues": 8,
                 "owner": "Kevin-thu",
                 "repo": "Epona",
-                "stars": 393,
+                "stars": 392,
                 "topics": [
                   "autonomous-driving",
                   "diffusion-models",
@@ -1056,7 +1056,7 @@
                 "open_issues": 26,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 592,
+                "stars": 593,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1151,7 +1151,7 @@
                 "open_issues": 1,
                 "owner": "AFARI-Research",
                 "repo": "WA-JEPA",
-                "stars": 88,
+                "stars": 89,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -1298,7 +1298,7 @@
                 "open_issues": 1,
                 "owner": "AFARI-Research",
                 "repo": "WA-JEPA",
-                "stars": 88,
+                "stars": 89,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -1319,7 +1319,7 @@
                 "open_issues": 1,
                 "owner": "HaoranZhuExplorer",
                 "repo": "AD-E2E-JEPA",
-                "stars": 77,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -1536,7 +1536,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1353,
+                "stars": 1352,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -2272,7 +2272,7 @@
                 "open_issues": 11,
                 "owner": "QwenLM",
                 "repo": "Qwen-Drive-1.0",
-                "stars": 546,
+                "stars": 547,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2681,7 +2681,7 @@
                 "open_issues": 46,
                 "owner": "bdd100k",
                 "repo": "bdd100k",
-                "stars": 579,
+                "stars": 580,
                 "topics": [
                   "dataset",
                   "detection",
@@ -2708,7 +2708,7 @@
                 "open_issues": 465,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3428,
+                "stars": 3429,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2834,7 +2834,7 @@
                 "open_issues": 465,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3428,
+                "stars": 3429,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2855,7 +2855,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T10:31:12Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "VAIL-UCLA",
                 "repo": "NavSafe-infty",
                 "stars": 55,
@@ -3019,7 +3019,7 @@
                 "open_issues": 47,
                 "owner": "OpenDriveLab",
                 "repo": "DriveLM",
-                "stars": 1353,
+                "stars": 1352,
                 "topics": [
                   "autonomous-driving",
                   "chain-of-thought",
@@ -3320,7 +3320,7 @@
                 "id": 1136438386,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-07T21:22:47Z",
+                "last_commit": "2026-11-08T21:37:02Z",
                 "open_issues": 1,
                 "owner": "Mi3-Lab",
                 "repo": "doPlan",
@@ -3371,7 +3371,7 @@
                 "open_issues": 1,
                 "owner": "ZihanYou",
                 "repo": "Language2Drive",
-                "stars": 35,
+                "stars": 41,
                 "topics": [
                   "autonomous-driving",
                   "benchmark",
@@ -3426,7 +3426,7 @@
             "id": 1284637950,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-03T06:09:12Z",
+            "last_commit": "2026-11-08T23:31:57Z",
             "open_issues": 1,
             "owner": "776styjsu",
             "repo": "drive-the-thoughts",
@@ -3491,8 +3491,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
-            "homepage": null,
+            "description": "Research repository for autonomous driving VLAs, and implementation of \"Towards Zero-Shot Transfer Across Embodiments for Driving VLAs\" (https://arxiv.org/abs/2609.02341).",
+            "homepage": "https://arxiv.org/abs/2609.02341",
             "id": 1107568951,
             "language": "Python",
             "license": null,
@@ -3501,7 +3501,10 @@
             "owner": "caiocj1",
             "repo": "ad-vla",
             "stars": 3,
-            "topics": []
+            "topics": [
+              "autonomous-driving",
+              "vision-language-action"
+            ]
           },
           "first_seen": "2026-10-05T01:14:04.656Z"
         },
@@ -3588,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T01:46:10.443Z",
+    "last_updated": "2026-11-09T01:55:49.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
