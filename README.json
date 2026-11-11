@@ -338,7 +338,7 @@
                 "open_issues": 127,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4810,
+                "stars": 4812,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-driving-framework",
@@ -369,7 +369,7 @@
                 "open_issues": 78,
                 "owner": "hustvl",
                 "repo": "VAD",
-                "stars": 1392,
+                "stars": 1393,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end"
@@ -1028,7 +1028,7 @@
                 "open_issues": 2,
                 "owner": "PolyU-VCLab",
                 "repo": "OSWAM",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-10-29T01:55:44.521Z"
@@ -1056,7 +1056,7 @@
                 "open_issues": 26,
                 "owner": "wzzheng",
                 "repo": "OccWorld",
-                "stars": 594,
+                "stars": 595,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1077,7 +1077,7 @@
                 "open_issues": 6,
                 "owner": "yuyang-cloud",
                 "repo": "Drive-OccWorld",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1807,7 +1807,7 @@
                 "open_issues": 37,
                 "owner": "ahydchh",
                 "repo": "Impromptu-VLA",
-                "stars": 430,
+                "stars": 431,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2082,7 +2082,7 @@
                 "open_issues": 6,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
-                "stars": 674,
+                "stars": 675,
                 "topics": [
                   "autonomous-driving",
                   "grpo",
@@ -2153,7 +2153,7 @@
                 "open_issues": 15,
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
-                "stars": 829,
+                "stars": 830,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end-autonomous-driving",
@@ -2272,7 +2272,7 @@
                 "open_issues": 11,
                 "owner": "QwenLM",
                 "repo": "Qwen-Drive-1.0",
-                "stars": 548,
+                "stars": 550,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2386,7 +2386,7 @@
                 "open_issues": 1,
                 "owner": "luo-yc17",
                 "repo": "Reflect-VLA",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-10-16T00:42:17.697Z"
@@ -2456,7 +2456,7 @@
                 "open_issues": 5,
                 "owner": "PJLab-ADG",
                 "repo": "LeapAD",
-                "stars": 151,
+                "stars": 152,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2572,7 +2572,7 @@
                 "open_issues": 1,
                 "owner": "Sta8is",
                 "repo": "DINO-Foresight",
-                "stars": 180,
+                "stars": 181,
                 "topics": [
                   "autonomous-driving",
                   "future-prediction",
@@ -2708,7 +2708,7 @@
                 "open_issues": 466,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3431,
+                "stars": 3432,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2834,7 +2834,7 @@
                 "open_issues": 466,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3431,
+                "stars": 3432,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2854,7 +2854,7 @@
                 "id": 1329287297,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T14:38:05Z",
+                "last_commit": "2026-11-10T18:05:49Z",
                 "open_issues": 0,
                 "owner": "VAIL-UCLA",
                 "repo": "NavSafe-infty",
@@ -3212,7 +3212,7 @@
                 "open_issues": 37,
                 "owner": "ahydchh",
                 "repo": "Impromptu-VLA",
-                "stars": 430,
+                "stars": 431,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -3320,7 +3320,7 @@
                 "id": 1136438386,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-10T01:06:39Z",
+                "last_commit": "2026-11-10T22:45:34Z",
                 "open_issues": 1,
                 "owner": "Mi3-Lab",
                 "repo": "doPlan",
@@ -3371,7 +3371,7 @@
                 "open_issues": 1,
                 "owner": "ZihanYou",
                 "repo": "Language2Drive",
-                "stars": 48,
+                "stars": 58,
                 "topics": [
                   "autonomous-driving",
                   "benchmark",
@@ -3500,7 +3500,7 @@
             "open_issues": 1,
             "owner": "caiocj1",
             "repo": "ad-vla",
-            "stars": 4,
+            "stars": 6,
             "topics": [
               "autonomous-driving",
               "vision-language-action"
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:17:31.082Z",
+    "last_updated": "2026-11-11T02:12:33.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
