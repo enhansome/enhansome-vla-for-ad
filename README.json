@@ -338,7 +338,7 @@
                 "open_issues": 127,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4829,
+                "stars": 4830,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-driving-framework",
@@ -393,7 +393,7 @@
                 "open_issues": 26,
                 "owner": "OpenDriveLab",
                 "repo": "OccNet",
-                "stars": 709,
+                "stars": 710,
                 "topics": [
                   "3d-object-detection",
                   "3d-occupancy",
@@ -460,7 +460,7 @@
                 "open_issues": 8,
                 "owner": "Thinklab-SJTU",
                 "repo": "DriveTransformer",
-                "stars": 247,
+                "stars": 249,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -502,7 +502,7 @@
                 "open_issues": 31,
                 "owner": "hustvl",
                 "repo": "DiffusionDrive",
-                "stars": 1537,
+                "stars": 1538,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -1273,7 +1273,7 @@
                 "id": 1145282710,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T16:43:35Z",
+                "last_commit": "2026-11-22T16:32:29Z",
                 "open_issues": 4,
                 "owner": "linhanwang",
                 "repo": "Drive-JEPA",
@@ -1361,7 +1361,7 @@
                 "open_issues": 0,
                 "owner": "World4Scorer",
                 "repo": "World4Scorer",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -1502,7 +1502,7 @@
                 "open_issues": 0,
                 "owner": "adept-thu",
                 "repo": "ActWorld-JEPA",
-                "stars": 23,
+                "stars": 29,
                 "topics": [
                   "autonomous-driving",
                   "jepa",
@@ -1616,7 +1616,7 @@
                 "open_issues": 3,
                 "owner": "sled-group",
                 "repo": "driVLMe",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -2363,7 +2363,7 @@
                 "open_issues": 1,
                 "owner": "AhernResearch",
                 "repo": "grava",
-                "stars": 487,
+                "stars": 488,
                 "topics": []
               },
               "first_seen": "2026-10-05T01:14:04.656Z"
@@ -2477,7 +2477,7 @@
                 "open_issues": 1,
                 "owner": "ASGuard-UCI",
                 "repo": "safedrive-vla",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-10-22T00:51:49.463Z"
@@ -3411,7 +3411,7 @@
                 "id": 1136438386,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-21T22:43:05Z",
+                "last_commit": "2026-11-22T23:08:44Z",
                 "open_issues": 1,
                 "owner": "Mi3-Lab",
                 "repo": "doPlan",
@@ -3432,7 +3432,7 @@
                 "id": 1376088894,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-11T04:11:43Z",
+                "last_commit": "2026-11-22T22:07:21Z",
                 "open_issues": 2,
                 "owner": "aditya-ramabadran",
                 "repo": "drivingbench_harness_code",
@@ -3682,7 +3682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T02:37:05.339Z",
+    "last_updated": "2026-11-23T03:03:26.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
