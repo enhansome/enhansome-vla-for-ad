@@ -338,7 +338,7 @@
                 "open_issues": 127,
                 "owner": "OpenDriveLab",
                 "repo": "UniAD",
-                "stars": 4831,
+                "stars": 4832,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-driving-framework",
@@ -369,7 +369,7 @@
                 "open_issues": 78,
                 "owner": "hustvl",
                 "repo": "VAD",
-                "stars": 1396,
+                "stars": 1398,
                 "topics": [
                   "autonomous-driving",
                   "end-to-end"
@@ -502,7 +502,7 @@
                 "open_issues": 31,
                 "owner": "hustvl",
                 "repo": "DiffusionDrive",
-                "stars": 1539,
+                "stars": 1541,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:23.797Z"
@@ -986,7 +986,7 @@
                 "open_issues": 3,
                 "owner": "xiaomi-mlab",
                 "repo": "DriveVA",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-09-25T00:45:56.476Z"
@@ -1028,7 +1028,7 @@
                 "open_issues": 2,
                 "owner": "PolyU-VCLab",
                 "repo": "OSWAM",
-                "stars": 22,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-10-29T01:55:44.521Z"
@@ -1502,7 +1502,7 @@
                 "open_issues": 0,
                 "owner": "adept-thu",
                 "repo": "ActWorld-JEPA",
-                "stars": 45,
+                "stars": 58,
                 "topics": [
                   "autonomous-driving",
                   "jepa",
@@ -2048,15 +2048,15 @@
               "repo_info": {
                 "archived": false,
                 "description": "[NeurIPS 2026] Learn a Trajectory-Geometric Condition from Reasoning for Autonomous Driving VLA",
-                "homepage": null,
+                "homepage": "https://arxiv.org/abs/2611.12382",
                 "id": 1414887899,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T10:52:17Z",
+                "last_commit": "2026-11-24T16:02:15Z",
                 "open_issues": 1,
                 "owner": "ShivaTeam",
                 "repo": "AutoVLA-D",
-                "stars": 7,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-11-14T02:39:45.308Z"
@@ -2149,7 +2149,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-29T09:55:21Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "ucla-mobility",
                 "repo": "AutoVLA",
                 "stars": 681,
@@ -2220,7 +2220,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-02-16T08:36:33Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "DriveVLA",
                 "repo": "OpenDriveVLA",
                 "stars": 836,
@@ -2321,7 +2321,7 @@
                 "open_issues": 3,
                 "owner": "AFARI-Research",
                 "repo": "ChainFlow-VLA",
-                "stars": 58,
+                "stars": 59,
                 "topics": []
               },
               "first_seen": "2026-10-25T00:29:50.905Z"
@@ -2339,7 +2339,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T01:38:48Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "QwenLM",
                 "repo": "Qwen-Drive-1.0",
                 "stars": 563,
@@ -2799,7 +2799,7 @@
                 "open_issues": 466,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3439,
+                "stars": 3440,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -2823,7 +2823,7 @@
                 "open_issues": 103,
                 "owner": "motional",
                 "repo": "nuplan-devkit",
-                "stars": 1052,
+                "stars": 1053,
                 "topics": [
                   "autonomous-driving",
                   "machine-learning",
@@ -2875,7 +2875,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-16T05:59:44Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "Thinklab-SJTU",
                 "repo": "Bench2Drive",
                 "stars": 1980,
@@ -2925,7 +2925,7 @@
                 "open_issues": 466,
                 "owner": "waymo-research",
                 "repo": "waymo-open-dataset",
-                "stars": 3439,
+                "stars": 3440,
                 "topics": [
                   "autonomous-driving",
                   "dataset"
@@ -3411,7 +3411,7 @@
                 "id": 1136438386,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-24T03:44:40Z",
+                "last_commit": "2026-11-25T01:51:44Z",
                 "open_issues": 1,
                 "owner": "Mi3-Lab",
                 "repo": "doPlan",
@@ -3542,7 +3542,7 @@
             "open_issues": 1,
             "owner": "boschresearch",
             "repo": "MemoryDrivoR",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-10-05T01:14:04.656Z"
@@ -3636,7 +3636,7 @@
             "open_issues": 1,
             "owner": "AutoLab-SAI-SJTU",
             "repo": "Drive3R",
-            "stars": 27,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-10-16T00:42:17.697Z"
@@ -3657,7 +3657,7 @@
             "open_issues": 0,
             "owner": "worldbench",
             "repo": "Orbia",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "3d",
               "3d-world-model",
@@ -3682,7 +3682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T06:20:44.836Z",
+    "last_updated": "2026-11-25T05:00:20.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future",
